@@ -4,10 +4,11 @@ title: "CV"
 
 <!-- This css code to control size of the page title. Here it is 0 to make it invisible -->
 
+```{=html}
 <style>
 .title {
   font-size: 0px;
 }
 </style>
-
-My Curriculum Vitae available here.
+```
+My Curriculum Vitae available [here](https://drive.google.com/open?id=1sia680YPK_Va4iN1uqwWC7o70kRgecEL&usp=drive_fs).

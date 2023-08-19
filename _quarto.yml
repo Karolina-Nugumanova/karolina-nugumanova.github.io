@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Emil Kamalov"
-  description: "Emil Kamalov: Personal Website"
+  title: "Karolina Nugumanova"
+  description: "Karolina Nugumanova: Personal Website"
   search: true
   navbar:
     # change color of navigation top panel, if you want
     #background: "#fcf9f2"
     #foreground: "black"
-    logo: logo.png
+    #logo: logo.png
     left:
       - href: index.qmd
         text: Home
@@ -28,13 +28,13 @@ website:
     left: |
       <br>
       <br>
-      {{< fa regular copyright >}} Emil Kamalov, 2023<br>
+      {{< fa regular copyright >}} Karolina Nugumanova, 2023<br>
       All content licensed under {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
       Opinions are my own and do not represent my employer
     
     right: |
-      ![Logo image](logo_bottom.png){width=70px}<br> 
+      ![Logo image](logo_bottom.png){width=0px}<br> 
       <br>
       Made with [R-Studio](https://posit.co/download/rstudio-desktop/) and [Quarto](https://quarto.org/)<br>
       Inspiration and code snippets taken from [one](https://ucsb-meds.github.io/creating-quarto-websites/) and [two](https://www.andreashandel.com/)
@@ -42,7 +42,8 @@ website:
 format:
   html:
     theme:
-      light: [matria,styles.scss]
+      light: [Simplex]
+      #light: [matria,styles.scss]
     css: styles.css
     toc: true
     

@@ -1,30 +1,30 @@
 ---
-title: "Name Surname"
-image: profile_main.png
+title: "Karolina Nugumanova"
+image: profile_name1.jpg
 about: 
   template: trestles
-  image-shape: rounded
+  image-shape: round
   image-width: 16em
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/
+      href: https://www.linkedin.com/in/karolina-nugumanova-0b4917130/
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/
+      href: https://twitter.com/KNugumanova
     - icon: github
       text: GitHub
-      href: https://github.com/
+      href: https://github.com/Karolina-Nugumanova
     - icon: rocket
       text: University Page
-      href: https://www.eui.eu/
+      href: https://eusp.org/alumni/karolina-nugumanova-2022
     - icon: envelope
       text: Email
-      href: mailto:emil@gmail.com
+      href: mailto:kar.nugumanova@gmail.com
 ---
 
-I am a PhD researcher in the [Department of Political and Social Sciences](https://www.eui.eu/en/academic-units/political-and-social-sciences) at the [European University Institute](https://www.eui.eu) (EUI), Florence. I study political behavior, violence, repressions and war-induced Russian emigration. I love statistics, experimental and surveys methods. 
+Welcome to my personal space online. Presently, I'm deeply involved in two research endeavors: [OutRush](https://outrush.io/eng), a comprehensive longitudinal analysis delving into the experiences of Russian emigrants, and [Science of Dreams](https://readymag.com/u94255285/wardreams/2/), a unique exploration into the dream narratives of Russians amidst wartime.
 
-Prior to EUI I was working as a junior research fellow at [Ronald F. Inglehart Laboratory for Comparative Social Research](https://lcsr.hse.ru/en/) and taught quantitative methods at [Higher School of Economics](https://www.hse.ru/en/) (HSE) and [European University at Saint Petersburg](https://eusp.org/en). I received a Master's degree in Social Sciences from HSE, and a Bachelor's degree in Economics from a university in the middle of Russia. I also happen to have a [Candidate of Sciences](https://en.wikipedia.org/wiki/Candidate_of_Sciences) degree in Social Philosophy.
+My academic journey gravitates towards topics like migration, gender studies, feminist theory, and the intricate dynamics of authoritarianism, political behavior, and repression. Beyond academia, my heart holds a special place for documentary filmmaking.
 
-With [Ivetta Sergeeva](https://www.eui.eu/people?id=ivetta-sergeeva), I am a co-founder and co-principal investigator of two multi-wave survey projects: [OutRush](https://outrush.io/eng) and [ViolenceMonitor](https://violencemonitor.org/). OutRush is a panel survey of war-induced Russian emigrants who left Russia after 24 February, 2022. ViolenceMonitor is a series of intimate partner violence victimization surveys that took place in 2021 in Russia.
+A proud alumna, I earned my MA in Sociology from the [European University at St. Petersburg](https://eusp.org/en) and my BA from [Novosibirsk State University](https://english.nsu.ru/). Dive in to explore more about my work and interests!
