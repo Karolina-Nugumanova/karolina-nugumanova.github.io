@@ -1,0 +1,5 @@
+[2,"\n"]
+[1,"pandoc \n"]
+[1,"  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: karolinanugumanova.github.io\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \nmetadata\n"]
+[1,"  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: cosmo\n  title: karolinanugumanova.github.io\n  \n"]
+[1,"GET: /index.html\n"]
