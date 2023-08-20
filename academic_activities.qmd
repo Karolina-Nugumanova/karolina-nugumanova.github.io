@@ -11,21 +11,13 @@ title: "Academic Activities"
 }
 </style>
 ```
-### Conferences and workshops
+### *Conferences and workshops*
 
-International online conference ["In the footsteps of emigrants: in search of a new world"](http://www.academicbridges.sbs/?page_id=290&lang=ru) (Po sledam emigrantov: v poiskah novogo mira), *Academic Bridges*, *Kovcheg*, *Science at Risk*, in Russian, 23-25 June 2023).
+**Political behaviour and civic engagement of Russian post-war migrants: the gender dimension from the OutRush Longitudinal Study**. International online conference ["In the footsteps of emigrants: in search of a new world"](http://www.academicbridges.sbs/?page_id=290&lang=ru) (Po sledam emigrantov: v poiskah novogo mira), *Academic Bridges*, *Kovcheg*, *Science at Risk*, in Russian, 23-25 June 2023).
 
-   **Topic**: Political behaviour and civic engagement of Russian post-war migrants: the gender dimension from the OutRush Longitudinal Study.
+**Gender Differences in Attitudes, Coping Strategies, and Integration among Russian Emigrants: A Longitudinal Study.** International Conference [«Problematizing Migration: Mobility and Vulnerablization in an Age of Abandonment and Inequalities»](https://www.fabula.org/actualites/115258/problematizing-migration-mobility-and-vulnerablization-in-an-age-of-abandonment-and-inequalities.html), *University of Palermo*, Italy, 17th -19th, July, 2023.
 
-International Conference [«Problematizing Migration: Mobility and Vulnerablization in an Age of Abandonment and Inequalities»](https://www.fabula.org/actualites/115258/problematizing-migration-mobility-and-vulnerablization-in-an-age-of-abandonment-and-inequalities.html), *University of Palermo*, Italy, 17th -19th, July, 2023.
-
-  **Topic**: Gender Differences in Attitudes, Coping Strategies, and Integration among Russian Emigrants: A Longitudinal Study.
-
-The 2023 Aleksanteri Conference [«Decolonizing Space in the Global East»](https://www.helsinki.fi/en/conferences/decolonizing-space-global-east), *University of Helsinki*, Finland, 23rd -25th of October, 2023 (forthcoming).
-
-   **Topics**: 
-   
-1) Gender differences between post-war emigrants from Russia: guilt, sorrow, responsibility, and hope.Co-authored with [Niсa Kostenko](https://il.linkedin.com/in/veronica-kostenko-b6bb6a26).
+**Gender differences between post-war emigrants from Russia: guilt, sorrow, responsibility, and hope**.Co-authored with [Niсa Kostenko](https://il.linkedin.com/in/veronica-kostenko-b6bb6a26). The 2023 Aleksanteri Conference [«Decolonizing Space in the Global East»](https://www.helsinki.fi/en/conferences/decolonizing-space-global-east), *University of Helsinki*, Finland, 23rd -25th of October, 2023 (forthcoming).
     
 <details>
 
@@ -35,7 +27,7 @@ The 2023 Aleksanteri Conference [«Decolonizing Space in the Global East»](http
     
 </details>
     
-2) Gendered Response to War: Analysing Patterns of Political Activism of Post-War Russian Emigrants.
+**Gendered Response to War: Analysing Patterns of Political Activism of Post-War Russian Emigrants**. The 2023 Aleksanteri Conference [«Decolonizing Space in the Global East»](https://www.helsinki.fi/en/conferences/decolonizing-space-global-east), *University of Helsinki*, Finland, 23rd -25th of October, 2023 (forthcoming).
     
 <details>
 
@@ -51,7 +43,7 @@ Annual English Language Student Conference, *EUSP*, Russia, 2021.
 
 Educational Sociology and Humanities Forum, St. Petersburg, Russia, 2021.
 
-### Professional trainings
+### *Professional trainings*
  
 5-day training for interviewers under the auspices of the International Project Building the Anti-war Commons in the Russian Diaspora, Helsinki, Finland, 2022.
  
@@ -61,7 +53,7 @@ Research, Ethics, Compliance, and Safety Training - CITI Program: Human Research
 
 EY Business School: Introduction to auditing. Russia, 2019.
  
-### Summer Schools
+### *Summer Schools*
 
 SPS Summer Academy 2022: (In)equality, Solidarity and Democracy in Europe.*European University Institute*, Italy, 2022.
  
@@ -69,7 +61,7 @@ Friedrich Naumann Foundation Online Summer School about war “Eclipse”, 2022.
  
 Data Science Summer School. *Hertie School Data Science Lab*, online, 2022.
  
-### Online courses
+### *Online courses*
 
 Migration and Health: Enhancing Intercultural Competence and Diversity Sensitivity, *OpenWHO*, 2023.
  

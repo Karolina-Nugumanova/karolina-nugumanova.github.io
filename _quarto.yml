@@ -8,9 +8,9 @@ website:
   search: true
   navbar:
     # change color of navigation top panel, if you want
-    #background: "#fefad4"
-    #foreground: "black"
-    logo: panda_flavicon.jpg
+    #background: "cdc5c2"
+    #foreground: "fefad4"
+    logo: hyppo.png
     left:
       - href: index.qmd
         text: Home
@@ -20,7 +20,7 @@ website:
       - academic_activities.qmd
       - CV.qmd
 
-  favicon: panda_flavicon.jpg
+  favicon: flavicon-removebg-preview_1.png
   
   page-footer:
     # Change color of the bottom part of the site
