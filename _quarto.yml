@@ -8,19 +8,19 @@ website:
   search: true
   navbar:
     # change color of navigation top panel, if you want
-    #background: "#fcf9f2"
+    #background: "#fefad4"
     #foreground: "black"
-    #logo: logo.png
+    logo: panda_flavicon.jpg
     left:
       - href: index.qmd
         text: Home
       - publications.qmd
       - projects.qmd 
       #- teaching.qmd #if you want to use that pages uncomment them but you need to have relevant .qmd
-      #- academic_activities.qmd
+      - academic_activities.qmd
       - CV.qmd
 
-  favicon: logo_flavicon.png
+  favicon: panda_flavicon.jpg
   
   page-footer:
     # Change color of the bottom part of the site
@@ -37,12 +37,14 @@ website:
       ![Logo image](logo_bottom.png){width=0px}<br> 
       <br>
       Made with [R-Studio](https://posit.co/download/rstudio-desktop/) and [Quarto](https://quarto.org/)<br>
-      Inspiration and code snippets taken from [one](https://ucsb-meds.github.io/creating-quarto-websites/) and [two](https://www.andreashandel.com/)
+      Inspiration and code snippets taken from [Emil Kamalov](https://emilkamalov.github.io/)
       
 format:
   html:
     theme:
-      light: [Simplex]
+      #light: [Simplex]
+      light: [Sandstone]
+      #light: [Flatly]
       #light: [matria,styles.scss]
     css: styles.css
     toc: true
@@ -51,7 +53,7 @@ format:
     #linkcolor: "#000000"
     #backgroundcolor: "#fcf9f2"
     #mainfont: "Roboto"
-    #fontsize: 12pt 
+    fontsize: 13pt 
     
 
 editor: visual

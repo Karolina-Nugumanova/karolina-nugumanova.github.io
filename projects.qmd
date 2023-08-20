@@ -13,17 +13,9 @@ title: "Projects"
 ```
 ### Panel-survey of War-induced Russian Emigrants: OutRush Project. 2022 - ongoing
 
-Some information
-
 ### Russians' dreams during the war in Ukraine : Science of Dreams: 2022 - ongoing
 
-<details>
-
-<summary>Abstract</summary>
-
-*At the end of February 2022, my colleagues and I launched a project to collect the dreams of Russians during the war. We have developed a methodology, prepared a questionnaire, collected and analyzed more than 1000 dreams sociologically.*
-
-</details>
+At the end of February 2022, my colleagues and I launched a project to collect the dreams of Russians during the war. We have developed a methodology, prepared a questionnaire, collected and analyzed more than 1000 dreams sociologically.
 
 [Science of Dreams (EN)](https://readymag.com/u94255285/wardreams/2/) 
 
