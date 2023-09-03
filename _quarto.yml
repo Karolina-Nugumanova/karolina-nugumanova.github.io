@@ -31,6 +31,7 @@ website:
     left: |
       <br>
       <br>
+      <br>
       {{< fa regular copyright >}} Karolina Nugumanova, 2023<br>
       All content licensed under {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
@@ -38,7 +39,6 @@ website:
     
     right: |
       ![Logo image](totoro-removebg-preview.png){width=100px}<br> 
-      <br>
       Made with [R-Studio](https://posit.co/download/rstudio-desktop/) and [Quarto](https://quarto.org/)<br>
       Inspiration and code snippets taken from [Emil Kamalov](https://emilkamalov.github.io/)
       

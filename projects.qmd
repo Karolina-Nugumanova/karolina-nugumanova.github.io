@@ -18,9 +18,11 @@ title: "Projects"
 <summary>Details</summary>
 
 #### Description
+
 At the end of February 2022, my colleagues and I launched a project to collect the dreams of Russians during the war. We have developed a methodology, prepared a questionnaire, collected and analyzed more than 1000 dreams sociologically. The results of the study have been published in outlets such as The February Journal, Republic, Posle Media. You can submit your dream at the [link](https://docs.google.com/forms/d/e/1FAIpQLSdVfoBlC82pePX4WWDFrCgjq0DHCi2-BVyg5jxkka0fQWrroQ/viewform).
 
 #### Links
+
 [Website (EN)](https://readymag.com/u94255285/wardreams/2/) <br>[Website (RU)](https://readymag.com/u94255285/wardreams/1/) <br> [Telegram channel](https://t.me/scienceofdreams)
 
 #### What kind of material we work with
@@ -33,9 +35,7 @@ Figure 1. Visualization of the dream, 2022. © Sonya Nikitina, all rights reserv
 :::
 :::
 
-*'I dreamed that I was in my old apartment. The front door is closed but unlocked. I close it with a latch, and suddenly, through the crack, I notice that there is someone behind it. At first, I think it's my mother,and she is about to come inside. But time passes, and the person just stands silently outside the door. I still can't see who it is, and then the door becomes almost transparent, and I realize that four guys are standing behind it. Standing silently, looking right at me. I hold the latch with my hand just in case. At first, I shout for them to go away, but I'm too scared and my voice is trembling. They don't move. Then I start asking what they want, and the guys suddenly spring to life: still silent, they come up close and stare right at me' (03/06/2022, F, age 20).*
-<br>
-</br>
+*'I dreamed that I was in my old apartment. The front door is closed but unlocked. I close it with a latch, and suddenly, through the crack, I notice that there is someone behind it. At first, I think it's my mother,and she is about to come inside. But time passes, and the person just stands silently outside the door. I still can't see who it is, and then the door becomes almost transparent, and I realize that four guys are standing behind it. Standing silently, looking right at me. I hold the latch with my hand just in case. At first, I shout for them to go away, but I'm too scared and my voice is trembling. They don't move. Then I start asking what they want, and the guys suddenly spring to life: still silent, they come up close and stare right at me' (03/06/2022, F, age 20).* <br> </br>
 
 ::: {style="page-break-after: always;"}
 :::
@@ -48,9 +48,7 @@ Figure 2. Visualization of the dream, 2022. © Agata Gilman, all rights reserved
 :::
 :::
 
-*'A mysterious celestial object falls to Earth near Moscow's water reservoirs; scientists announce that it can poison the water. The Russian authorities decide not to shoot down the object and allow the contamination. The news announces that the citizens must take care of themselves exclusively, and the property of the dead will be handed over to the military and security forces as salaries, as there is no money in the budget for their maintenance. In a panic I grab my cat, warm clothes and run to the forest park, because I am afraid that looting and violence will start immediately, and I hope that the snow will not melt for some time and that my cat and I will have potable water' (07/04/2022, F, age 29)*
-<br>
-</br>
+*'A mysterious celestial object falls to Earth near Moscow's water reservoirs; scientists announce that it can poison the water. The Russian authorities decide not to shoot down the object and allow the contamination. The news announces that the citizens must take care of themselves exclusively, and the property of the dead will be handed over to the military and security forces as salaries, as there is no money in the budget for their maintenance. In a panic I grab my cat, warm clothes and run to the forest park, because I am afraid that looting and violence will start immediately, and I hope that the snow will not melt for some time and that my cat and I will have potable water' (07/04/2022, F, age 29)* <br> </br>
 
 ::: {style="width: 200px; text-align: left; float: right;"}
 <img src="бабки.jpg" width="200px"/>
@@ -77,8 +75,8 @@ A research project on Russian emigration. We conduct surveys of Russians who lef
 #### Links
 
 [Website (EN)](https://outrush.io/eng#abouttheproject) <br> [Website (RU)](https://outrush.io/outrush)
-</details>
 
+</details>
 
 ### A qualitative study of Feminist Anti-war Resistance activists: May 2022 - ongoing
 
