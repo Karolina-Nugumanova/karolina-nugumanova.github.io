@@ -11,28 +11,27 @@ title: "Publications and Media"
 }
 </style>
 ```
-### *Peer-reviewed Articles*
+### **Peer-reviewed Articles**
 
-[‘Great, Great Sorrow and Eternal Silence’: An Experiment in Sociological Dream Interpretation after the 24th of February 2022](https://thefebruaryjournal.org/en/article/85). *The February Journal*, 2023,  01-02: 63-82 (EN, RU).
+['Great, Great Sorrow and Eternal Silence': An Experiment in Sociological Dream Interpretation after the 24th of February 2022](https://thefebruaryjournal.org/en/article/85). *The February Journal*, 2023, 01-02: 63-82 (EN, RU).
 
 <details>
 
 <summary>Abstract</summary>
 
-*The article is devoted to reflecting on silence and speaking in the dreams of people in Russia after the 24th of February 2022. Our two-stage analysis of dream narratives and dreamers’ comments on them uncovers several key topics related to speaking and silence. Interpreting them with the apparatus of sociology, we conclude that these dreams provide a space for restoring agency that had been lost in real life.*
+*The article is devoted to reflecting on silence and speaking in the dreams of people in Russia after the 24th of February 2022. Our two-stage analysis of dream narratives and dreamers' comments on them uncovers several key topics related to speaking and silence. Interpreting them with the apparatus of sociology, we conclude that these dreams provide a space for restoring agency that had been lost in real life.*
 
 </details>
 
-### *Publications in media*
+### **Publications in Media**
 
-[How do you sleep during the war?](https://posle.media/language/en/how-do-you-sleep-during-the-war/). *Posle Media*, 23th of March, 2023. (EN)
+[How do you sleep during the war?](https://posle.media/language/en/how-do-you-sleep-during-the-war/). *Posle Media*, 23 March, 2023. (EN)
 
-[Как тебе спится во время войны?](https://posle.media/kak-tebe-spitsya-vo-vremya-vojny/).*Posle Media*, 23th of March, 2023. (RU)
+[Как тебе спится во время войны?](https://posle.media/kak-tebe-spitsya-vo-vremya-vojny/).*Posle Media*, 23 March, 2023. (RU)
 
-[‘I had a dream about Putin’. What war-time dreams tell us about reality](https://republic.ru/posts/107912). *Republic.*, 8th of April (RU, English version available on request)
+['I had a dream about Putin'. What war-time dreams tell us about reality](https://republic.ru/posts/107912). *Republic.*, 8 April (RU, English version available on request)
 
-
-### *Working Papers*
+### **Working Papers**
 
 Gendered Response to War: Analysing Patterns of Political Activism of Post-War Russian Emigrants, 2022-2023. Co-authored with E. [Kamalov](https://emilkamalov.github.io/) and I. [Sergeeva](https://www.eui.eu/people?id=ivetta-sergeeva).
 
@@ -44,20 +43,26 @@ Gendered Response to War: Analysing Patterns of Political Activism of Post-War R
 
 </details>
 
-### *Public speaking*
+### **Public Speaking**
 
 Guest speaker for the popular science lectures in [one](https://gdebabulya.ru/) of St Petersburg's cultural spaces on fiction and documentary film. Saint Petersburg, Russia, 2022.
 
-Guest speaker for the public lecture at the summer school  [GENDER-LIKBEZ 4.0](https://eusp.org/projects/gender-likbez) , *European University at St Petersburg*, 21st of April, 2023. The lecture focused on the difference between female and male political and civic activism among Russian migrants.
+Guest speaker for the public lecture at the summer school [GENDER-LIKBEZ 4.0](https://eusp.org/projects/gender-likbez) , *European University at St Petersburg*, 21 April, 2023. The lecture focused on the difference between female and male political and civic activism among Russian migrants.
 
 [Выборы: что это было и будет ли это еще?](https://www.youtube.com/watch?v=M5xh4NUUk_4). *Политика Заново*, issue 1, 2021 (Political vlog)
 
-### *Interviews*
+### **Interviews**
 
 [«Кому-то снилось, что дыхание стало платным». Что социологи узнали из 900 снов россиян после 24 февраля](https://paperpaper.ru/komu-to-snilos-chto-dyhanie-stalo-pla/). *Paper paper* , 30 Nov, 2022.
 
-
 [Студентка ЕУ Каролина Нугуманова рассказала об обучении на программе «Социальные институты и практики»](https://eusp.org/news/studentka-eu-karolina-nugumanova-rasskazala-ob-obuchenii-na-programme-socialnye-instituty-i-praktiki).*Европейский университет в Санкт-Петербурге*, 18 March, 2021.
 
+### **References & Acknowledgements**
+
+[Dreaming Under Russian Terror](https://www.museumofdreams.org/dreaming-under-russian-terror). *Raimondo Lanza*, 27 June, 2023.
+
+[Six Months in Exile: A New Life of Russian Emigrants](https://drive.google.com/file/d/17MawIn4q9ONNBbRBU2gN1NUItj2Zro4N/view). Kamalov, Emil, Ivetta Sergeeva, Margarita Zavadskaya, and Veronica Kostenko. *SocArXiv*, 20 May, 2023.
+
+[«Шульман снится чаще, чем Кадыров». Как студентки-социологи изучают сны россиян после 24 февраля](https://paperpaper.ru/shulman-snitsya-chashe-chem-kadyrov-kak/).*Paper paper*, 8 April, 2022.
 
 

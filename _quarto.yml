@@ -8,9 +8,12 @@ website:
   search: true
   navbar:
     # change color of navigation top panel, if you want
-    #background: "cdc5c2"
-    #foreground: "fefad4"
-    logo: hyppo.png
+    #background: "#cdc5c2"
+    background: "#f5c37d"
+    foreground: "#000000"
+    logo: image_big-removebg-preview.png
+    width: 400px;
+    height: auto;
     left:
       - href: index.qmd
         text: Home
@@ -20,11 +23,11 @@ website:
       - academic_activities.qmd
       - CV.qmd
 
-  favicon: flavicon-removebg-preview_1.png
+  favicon: totoro-removebg-preview_1.png
   
   page-footer:
     # Change color of the bottom part of the site
-    #background: "#464646"
+    #background: "#6aebc8"
     left: |
       <br>
       <br>
@@ -34,7 +37,7 @@ website:
       Opinions are my own and do not represent my employer
     
     right: |
-      ![Logo image](logo_bottom.png){width=0px}<br> 
+      ![Logo image](totoro-removebg-preview.png){width=100px}<br> 
       <br>
       Made with [R-Studio](https://posit.co/download/rstudio-desktop/) and [Quarto](https://quarto.org/)<br>
       Inspiration and code snippets taken from [Emil Kamalov](https://emilkamalov.github.io/)
@@ -42,17 +45,24 @@ website:
 format:
   html:
     theme:
-      #light: [Simplex]
-      light: [Sandstone]
+      light: [Simplex]
+      #light: [Sandstone]
       #light: [Flatly]
       #light: [matria,styles.scss]
     css: styles.css
     toc: true
+    toc_float: 
+     collapsed: true
+     smooth_scroll: true
+     toc_depth: 3
+     number_sections: false
     
     # Additional things to control for all site
-    #linkcolor: "#000000"
-    #backgroundcolor: "#fcf9f2"
-    #mainfont: "Roboto"
+    linkcolor: "#000000"
+    #backgroundcolor: "#ed961c"
+    # mainfont: "Roboto"
+    mainfont: "Academy Regular"
+    # mainfont: "Quicksand Regular"
     fontsize: 13pt 
     
 

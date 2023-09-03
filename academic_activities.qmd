@@ -11,24 +11,24 @@ title: "Academic Activities"
 }
 </style>
 ```
-### *Conferences and workshops*
+### **Conferences and workshops**
 
 **Political behaviour and civic engagement of Russian post-war migrants: the gender dimension from the OutRush Longitudinal Study**. International online conference ["In the footsteps of emigrants: in search of a new world"](http://www.academicbridges.sbs/?page_id=290&lang=ru) (Po sledam emigrantov: v poiskah novogo mira), *Academic Bridges*, *Kovcheg*, *Science at Risk*, in Russian, 23-25 June 2023).
 
 **Gender Differences in Attitudes, Coping Strategies, and Integration among Russian Emigrants: A Longitudinal Study.** International Conference [«Problematizing Migration: Mobility and Vulnerablization in an Age of Abandonment and Inequalities»](https://www.fabula.org/actualites/115258/problematizing-migration-mobility-and-vulnerablization-in-an-age-of-abandonment-and-inequalities.html), *University of Palermo*, Italy, 17th -19th, July, 2023.
 
 **Gender differences between post-war emigrants from Russia: guilt, sorrow, responsibility, and hope**.Co-authored with [Niсa Kostenko](https://il.linkedin.com/in/veronica-kostenko-b6bb6a26). The 2023 Aleksanteri Conference [«Decolonizing Space in the Global East»](https://www.helsinki.fi/en/conferences/decolonizing-space-global-east), *University of Helsinki*, Finland, 23rd -25th of October, 2023 (forthcoming).
-    
+
 <details>
 
 <summary>Abstract</summary>
 
 *Using Outrush panel data collected from the initiative independent project we study how women and men who emigrated from Russia after 24.02.2022 differ in their attitudes. We specifically focus on their coping strategies, their modes of incorporation into receiving societies, their bonds with Russia, fears, and plans for the future. Women tend to feel more sorrow and pain, to miss their relatives and friends who stayed in Russia more than men, and are more often depressed and frustrated. Their political attitudes and political activities abroad also show diverse trends. Thus, women are more likely than men to take part in protests, sign petitions and post on social media. In addition, in both the first and second waves of the survey, women are more likely than men to volunteer, to help Ukrainian emigrants, and to donate to Russian and local NGOs. It is also noteworthy that women more actively try to integrate into the host community, learning local languages more readily than men. However, they were also more inclined to report experiencing discrimination from both locals in the host countries and local authorities. As we have 3 waves of data collected from the same people, we can trace the changes in various attitudes of women and men in emigration which allows for broader generalizations on the interaction of gender and migration status.*
-    
+
 </details>
-    
+
 **Gendered Response to War: Analysing Patterns of Political Activism of Post-War Russian Emigrants**. The 2023 Aleksanteri Conference [«Decolonizing Space in the Global East»](https://www.helsinki.fi/en/conferences/decolonizing-space-global-east), *University of Helsinki*, Finland, 23rd -25th of October, 2023 (forthcoming).
-    
+
 <details>
 
 <summary>Abstract</summary>
@@ -43,34 +43,34 @@ Annual English Language Student Conference, *EUSP*, Russia, 2021.
 
 Educational Sociology and Humanities Forum, St. Petersburg, Russia, 2021.
 
-### *Professional trainings*
- 
+### **Professional trainings**
+
 5-day training for interviewers under the auspices of the International Project Building the Anti-war Commons in the Russian Diaspora, Helsinki, Finland, 2022.
- 
+
 88-hour career track on Data Scientist with R, *DataCamp*, 2022.
- 
+
 Research, Ethics, Compliance, and Safety Training - CITI Program: Human Research. Social/Behavioral Researchers (2022); COVID-19: Public Training Series. Mental Health for Higher Ed and Healthcare (2022)
 
 EY Business School: Introduction to auditing. Russia, 2019.
- 
-### *Summer Schools*
+
+### **Summer Schools**
 
 SPS Summer Academy 2022: (In)equality, Solidarity and Democracy in Europe.*European University Institute*, Italy, 2022.
- 
-Friedrich Naumann Foundation Online Summer School about war “Eclipse”, 2022.
- 
+
+Friedrich Naumann Foundation Online Summer School about war "Eclipse", 2022.
+
 Data Science Summer School. *Hertie School Data Science Lab*, online, 2022.
- 
-### *Online courses*
+
+### **Online courses**
 
 Migration and Health: Enhancing Intercultural Competence and Diversity Sensitivity, *OpenWHO*, 2023.
- 
+
 Human Rights, Human Wrongs: Challenging Poverty, Vulnerability and Social Exclusion, *SDGAcademyX*, 2023.
- 
+
 Gender, Violence and Post-Conflict States. *University of Iceland*, 2022.
- 
+
 Qualitative research methods, *University of Amsterdam*, 2022.
- 
+
 Feminism and Social Justice, *University of California*, 2020.
- 
+
 Introduction to Tableau, *DataCamp*, 2022.
