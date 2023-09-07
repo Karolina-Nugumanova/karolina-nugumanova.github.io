@@ -11,9 +11,7 @@ website:
     #background: "#cdc5c2"
     background: "#f5c37d"
     foreground: "#000000"
-    logo: image_big-removebg-preview.png
-    width: 400px;
-    height: auto;
+    logo: flavicon_new-removebg-preview.png
     left:
       - href: index.qmd
         text: Home
@@ -23,7 +21,7 @@ website:
       - academic_activities.qmd
       - CV.qmd
 
-  favicon: totoro-removebg-preview_1.png
+  favicon: main_flav_4.png
   
   page-footer:
     # Change color of the bottom part of the site
