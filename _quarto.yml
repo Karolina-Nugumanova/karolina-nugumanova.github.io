@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Karolina Nugumanova"
+  title: "Karolina Nugumanova" 
   description: "Karolina Nugumanova: Personal Website"
-  google-analytics: "UA-XXXXXXXX"
+  google-analytics: "G-JSNW9RCCW1"
   search: true
   navbar:
     # change color of navigation top panel, if you want
