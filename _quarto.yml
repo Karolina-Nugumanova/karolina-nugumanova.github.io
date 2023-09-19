@@ -5,6 +5,7 @@ project:
 website:
   title: "Karolina Nugumanova"
   description: "Karolina Nugumanova: Personal Website"
+  google-analytics: "UA-XXXXXXXX"
   search: true
   navbar:
     # change color of navigation top panel, if you want
