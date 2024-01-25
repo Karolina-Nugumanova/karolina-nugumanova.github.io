@@ -41,6 +41,14 @@ Annual English Language Student Conference. *EUSP*, Russia, 2021.
 
 **Two Years On: What’s Changed? Bright Prospects and Enduring Challenges for Russian Emigrants**. International Academic Conference (In)Visible Russian (Anti-)War Migration, March 13-15, 2024, Warsaw (forthcoming)
 
+<details>
+
+<summary>Abstract</summary>
+
+*The war in Ukraine has catalyzed a significant emigration wave from Russia, with  approximately one million (Re:Russia, 28 July, 2023) individuals leaving mainly due to political dissent against Putin's regime. This study, utilizing data from three OutRush panel study, reveals  these emigrants are predominantly younger, better educated, come from affluent backgrounds, and more politically active than the average Russian, with strong gender-egalitarian views and high trust in both compatriots and host nationals (Kamalov et al., March 2022). Their migration profoundly affects both origin and destination countries, influencing labor markets (Dustmann, Glitz, and Frattini, 2008), political landscapes (Kapur, 2014), and driving political changes in their countries of origin (Waldinger and Shams, 2023; Krawatzek and Müller-Funk, 2020; Barsbai et al., 2017). Their economic contributions and political activism potentially  accelerate democratization processes (Escribà-Folch, Meseguer, and Wright, 2015; O'Mahony, 2013).Host societies stand to gain from these migrants' gender-equality perspectives and political engagement, which can enrich public discourse and hasten gender equality progress. However, their activism is declining due to increasing fear of (trans)national repression. Interestingly, the study revealed the phenomenon of a reverse gender gap in activism after emigration: women are more active in political life and civic engagement in the host countries compared to men.Regression analysis and the Blinder-Ooxaca decomposition method show that such a gap can be explained by the fact that women feel more responsible for Russia's actions in Ukraine and desire to compensate for the damage.In the two years since the beginning of the war, the psycho-emotional state of emigrants has changed. Сompared to September 2022, in the summer 2023 people show more optimism and less sadness, but trust in host institutions has decreased and worries about discrimination have increased. This article draws on quantitative data of three waves of panel survey OutRush and in-depth interviews with migrants and feminist anti-war activists to provide a comprehensive picture of the profile of Russian emigrants and the dynamics of their new post-war life*.
+
+</details>
+
 **Gendered Responses to War: Analyzing Differences and Underlying Factors in the Case of Russian Emigration, 2022-2023**. 15th European Graduate Network Conference. April 3-5, 2024, Zurich (forthcoming)
 
 <details>
