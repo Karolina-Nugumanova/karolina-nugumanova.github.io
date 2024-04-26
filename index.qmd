@@ -17,7 +17,7 @@ about:
       href: https://github.com/Karolina-Nugumanova
     - icon: rocket
       text: University Page
-      href: https://eusp.org/alumni/karolina-nugumanova-2022
+      href: https://www.sns.it/en/persona/karolina-nugumanova
     - icon: envelope
       text: Email
       href: mailto:kar.nugumanova@gmail.com

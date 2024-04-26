@@ -39,7 +39,7 @@ website:
     right: |
       ![Logo image](totoro-removebg-preview.png){width=100px}<br> 
       Made with [R-Studio](https://posit.co/download/rstudio-desktop/) and [Quarto](https://quarto.org/)<br>
-      Inspiration and code snippets taken from [Emil Kamalov](https://emilkamalov.github.io/)
+      Inspiration and code snippets taken from [here](https://emilkamalov.github.io/)
       
 format:
   html:
