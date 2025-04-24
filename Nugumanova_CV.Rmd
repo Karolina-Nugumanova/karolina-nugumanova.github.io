@@ -1,5 +1,5 @@
 ---
-title: "Karolina Nugumanova"
+title: "Karolina Nugumanova_CV"
 output:
   pdf_document:
     latex_engine: xelatex
@@ -60,7 +60,9 @@ urlcolor: blue
 -   2021\
     **Exchange student**\
     Globalisation Program, Venice International University, Italy\
-    **GPA**: 8.8/10<!-- 2010-2013\ -->
+    **GPA**: 8.8/10
+    
+<!-- 2010-2013\ -->
 
 <!-- **PhD-student**\ -->
 
