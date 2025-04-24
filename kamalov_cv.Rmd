@@ -1,0 +1,338 @@
+---
+title: "Emil Kamalov"
+output:
+  pdf_document:
+    latex_engine: xelatex
+    keep_tex: true
+  html_document:
+    df_print: paged
+header-includes:
+- \usepackage{fontspec}
+- \usepackage{polyglossia}
+- \setmainlanguage{english}
+- \setotherlanguage{russian}
+- \usepackage{enumitem}
+- \setlist{nolistsep}
+- \usepackage{sectsty}
+- \sectionfont{\centering}
+- \usepackage[margin=1in]{geometry}
+- \usepackage{multicol}
+urlcolor: blue
+---
+
+\centerline{European University Institute}
+\centerline{\textbf{Address}: Via dei Roccettini 9, San Domenico di Fiesole, Italy}
+\centerline{\textbf{Email}: \href{mailto:emil.kamalov@eui.eu}{emil.kamalov@eui.eu}, \href{mailto:em.kamalov@gmail.com}{em.kamalov@gmail.com}}
+\centerline{\textbf{Tel}: +39-351-926-99-08}
+\centerline{\textbf{Webpage}: \url{www.emilkamalov.com}}
+
+
+<!-- **Date of birth**: 25.10.1988\ -->
+<!-- **Email**: [emil.kamalov\@eui.eu](mailto:emil.kamalov@eui.eu){.email}, [em.kamalov\@gmail.com](mailto:em.kamalov@gmail.com){.email}\ -->
+<!-- **Phone**: +39-351-926-99-08\ -->
+<!-- **Webpage**: [www.emilkamalov.com](https://emilkamalov.com/) -->
+
+**Research interests**: political behavior, migration, authoritarianism, violence, conflict resolution, repressions, subjective well-being, nationalism
+
+
+<!-- <br>   -->
+\vspace{1mm}
+\hrule
+<!-- \vspace{1mm}  -->
+
+
+## Education
+
+-   2021 --- present\
+    **PhD candidate** (defense expected 2025)\
+    Department of Political and Social Sciences, European University Institute\
+    Supervisor: Professor Miriam Golden\
+    
+-   2024\
+    **Global Exchange Student**\
+    Department of Politics, New York University\
+    Supervisor: Associate Professor Arturas Rozenas\
+
+-   2017-2019\
+    **MA in Sociology with distinction**\
+    Department of Sociology, National Research University Higher School of Economics in St. Petersburg\
+    **GPA**: 8.85/10\
+  
+-   2010-2016\
+    **Candidate of Science in Philosophy**\
+    History and Sociology Institute, National Research Mordovia State University, Russia
+<!-- 2010-2013\ -->
+
+<!-- **PhD-student**\ -->
+
+<!-- Elabuga Institute of Kazan Federal University. -->
+
+-   2005-2010\
+    **BA in Economics with distinction**\
+    Kama State Engineering and Economics Academy, Naberezhnye Chelny, Russia\
+    **GPA**: 5/5.
+
+<!-- -   2004-2007\ -->
+<!--     **Diploma with distinction in specialized secondary education, Qualification: accountant**\ -->
+<!--     Kama State Engineering and Economics Academy.\ -->
+<!--     **GPA**: 4.8/5. -->
+
+
+
+<!-- <br>   -->
+<!-- \vspace{1mm} -->
+<!-- \hrule -->
+<!-- \vspace{1mm}  -->
+
+## Peer-Reviewed Publications
+
+- ["Voice after Exit? Exploring Patterns of Civic Activism among Russian Migrant Communities in Eurasia after 24 February 2022"](https://hup.fi/site/chapters/e/10.33134/HUP-26-8/), with Ivetta Sergeeva and Margarita Zavadskaya. In *Global Migration and Illiberalism in Russia, Eurasia and Eastern Europe*, Helsinki University Press (2024)
+
+In Russian:  
+
+-   [Factors of Mass Support for the Government in the Times of Structural Reforms](http://inion.ru/en/publishing/journals-recommended-by-the-high-certification-commission/political-science-old/arkhiv/2021-2-institutcional-nye-reformy/faktory-massovoi-podderzhki-pravitel-stva-v-usloviiakh-provedeniia-strukturnykh-reform-factors-of-mass-support-for-government/). *Political Science (RU)*, with Boris Sokolov, Margarita Zavadskaya (2021)
+
+-   [National Pride and Subjective Well-being of Russians](https://www.ssoar.info/ssoar/handle/document/74840). *Monitoring of Public Opinion: Economic and Social Changes*,  with Eduard Ponarin (2020)
+
+-   [Subjective Well-being of Migrants in Russia: Effects of Regional Characteristics and Migration Legislation](https://demreview.hse.ru/index.php/ecsoc/article/view/10407), *Journal of Economic Sociology*, with Eduard Ponarin (2020)
+
+
+<!-- <br>   -->
+<!-- \vspace{1mm} -->
+<!-- \hrule -->
+## Revise & Resubmit
+-  ["Helping to Flee a Political Crisis: A Conjoint Experiment on the Aid Preferences of Wartime Russian Migrants"](https://osf.io/qg3sx), with Ivetta Sergeeva (R&R at *Perspectives on Politics*)
+- ["Invisible Costs of Exiting Autocracy: Subjective Well-being and Emotional Burnout Among Russian Wartime Migrants"](https://osf.io/preprints/socarxiv/2wmuy), with Ivetta Sergeeva (R&R at *Post-Soviet Affairs*)
+
+## Under Review
+- ["Measuring Intimate Partner Violence in Middle-Income country: Evidence from Series of List Experiments and Self-Administered Surveys"](https://drive.google.com/file/d/1W_YbiAa7VgFQ26PWyFKXYzMJjelVoifn/view?usp=sharing), with Ivetta Sergeeva
+
+
+<!-- <br>   -->
+<!-- \vspace{1mm} -->
+<!-- \hrule -->
+<!-- \vspace{1mm} -->
+## Working Papers
+- [Unintended Consequences of Transnational Repressions: How Exile Organizations Gain Support in Response to Criminalization by Autocratic Homelands](https://osf.io/preprints/socarxiv/wks2m), with Ivetta Sergeeva
+- ["How to Maintain a Panel Survey of Political Migrants: Evidence from a Field Experiment"](https://drive.google.com/file/d/1bduV7Dvptf2XpnNHymXRVa6tCsDntgZD/view?usp=sharing), with Ivetta Sergeeva
+
+## Work in Progress
+-  "How Dependence on Autocratic Homeland Passport Renewal Silences Oppositional Emigrants", with Ivetta Sergeeva
+- "Does Democratization and Economic Opportunities in the Homeland Pull Political Emigrants Back? Evidence from a Large-Scale Conjoint Experiment and Cross-Country Panel Survey", with Ivetta Sergeeva
+<!-- - "Can Media Framing Increase Support for Health Reform? Results of the Conjoint Experiment", with Boris Sokolov, Margarita Zavadskaya and Ivetta Sergeeva -->
+-	"Gendered Response to War: Explaining Gender Gap in Political Activism of Wartime Russian Emigrants, 2022-2023", with Karolina Nugumanova and Ivetta Sergeeva
+-	"The Effect of Discrimination on the Political Behavior of Recent Migrants: Evidence from Two Waves of the Panel Survey of New Russian Migrants", with Ivetta Sergeeva
+
+
+## Data collection
+
+- **Co-Founder** and **Co-Lead**, [OutRush](https://outrush.io/eng), a panel survey of Russian political migrants, with Ivetta Sergeeva. Funded by European University Institute and U.S. Russia Foundation,  2022 --- present.
+
+    Media references (70+ references):  
+
+  -   In English:\
+    [Bloomberg](https://www.bloomberg.com/news/articles/2024-05-02/russians-who-fled-war-return-in-boost-for-putin-s-war-economy), \href{https://www.ft.com/content/5e6bcce9-7bda-4b29-b1b7-f7df6e879fd9}{Financial Times}, [Al Jazeera](https://www.aljazeera.com/news/2024/1/22/russian-exiles-unlikely-to-return), [Deutsche Welle](https://www.dw.com/en/russia-why-people-are-returning-despite-the-war-in-ukraine/a-67022321), \href{https://www.cnbc.com/2022/11/25/georgia-armenia-turkey-economies-boom-with-russian-wealth-migration.html}{CNBC},  \href{https://fortune.com/europe/2022/08/20/russia-brain-drain-young-russians-leaving-after-ukraine-war-putin/}{Fortune},  \href{https://www.themoscowtimes.com/2023/10/25/15-of-russians-who-fled-war-mobilization-have-returned-survey-a82885}{The Moscow Times (1)}, \href{https://www.moscowtimes.ru/2023/01/19/sotsialnii-portret-novoi-volni-rossiiskih-emigrantov-a31239}{The Moscow Times (2)}, [The Japan Times](https://www.japantimes.co.jp/news/2024/05/02/world/politics/russians-putin-war-economy/)
+  -   In Russian:\
+    \href{https://www.bbc.com/russian/features-65686712}{BBC}, \href{https://www.dw.com/ru/sdelka-s-sovestu-pokinuvsie-rossiu-i-potom-vernuvsiesa-o-svoem-opyte/a-66896905}{Deutsche Welle}, [Voice of America](https://www.instagram.com/p/Cy1WVu2LbYT/), [Meduza (1)](https://meduza.io/episodes/2023/07/10/chinovniki-uveryayut-mnogie-uehavshie-ot-voyny-rossiyane-mechtayut-vernutsya-obratno-a-kak-na-samom-dele-rasskazyvaet-sotsiolog-nika-kostenko), \href{https://meduza.io/feature/2022/12/23/uehavshie-rossiyane-stali-bednee-no-zato-teper-bolshe-doveryayut-lyudyam-i-veryat-v-buduschee}{Meduza (2)}, \href{https://meduza.io/feature/2022/07/31/chem-nyneshnyaya-volna-emigratsii-otlichaetsya-ot-drugih-predstaviteli-kakih-professiy-uehali-sobirayutsya-li-migranty-vernutsya}{Meduza (3)}, \href{https://www.rbc.ru/spb_sz/29/01/2023/63ce99cc9a794787b4a2e9de}{RBC (1)}, \href{https://www.rbc.ru/politics/25/10/2023/6538b8739a7947719d23fd1e}{RBC (2)}, [RBC (3)](https://www.youtube.com/watch?v=7NsNp4MoUJw&ab_channel=%D0%A0%D0%91%D0%9A%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8),  [Forbes Russia](https://t.me/forbesglobalrus/3396), \href{https://www.youtube.com/watch?v=Bvcfj9a9XH8&t=4028s}{Zhivoy Gvozd},  \href{https://istories.media/news/2023/10/25/v-rossiyu-mogli-vernutsya-bolee-15-uekhavshikh-posle-nachala-voini-schitayut-issledovateli/}{Important Stories},  \href{https://open.spotify.com/episode/3n2gfxhNFRaSmrK8BFzE5U}{Rasstriga.doc}, \href{https://paperpaper.ru/kto-svyazyvaet-svoe-budushee-s-rossiej-b/}{Paper (1)},  \href{https://paperpaper.ru/emigranty-2022-go-ne-planiruyut-vozvrashat/}{Paper (2)}, [Karèn Shainyan](https://youtu.be/VzaFzSVtDtA), \href{https://rtvi.com/news/ft-bolee-15-rossijskih-emigrantov-vremenno-ili-nadolgo-vernulis-v-rossiyu/}{RTVI},  \href{https://novayagazeta-ru.cdn.ampproject.org/c/s/novayagazeta.ru/amp/articles/2022/12/27/strana-ubytiia}{Novaya Gazeta}, \href{https://www.severreal.org/a/rabotaem-do-pervogo-donosa-chto-budet-s-naukoy-i-vysshim-obrazovaniem-/32127897.html}{Sever Real}, [VC](https://vc.ru/money/575523-den-313-kolichestvo-nevyezdnyh-iz-za-dolgov-rossiyan-k-novomu-godu-stalo-rekordnym-za-15-let), [Feminist Anti-War Resistance](https://syg.ma/@feminist-anti-war-resistance/uiekhavshiie-rossiianie-bolieie-fieministski-nastroieny-sotsiologhi-iz-proiekta-outrush-o-novoi-volnie-rossiiskoi-emighratsii), [Klops](https://klops.ru/other/2023-10-25/282009-15-relokantov-pokinuvshih-rossiyu-posle-nachala-svo-vernulis-domoy-issledovateli), [Vot Tak](https://vot-tak.tv/novosti/27-10-2023-demograf-dopustil), [Glagol](https://glagol.press/uchjonye-soobshhili-o-vozvrashhenii-v-rossiju-relokantov), [Grodno 24](https://grodno24.com/2023/10/uehavshie-iz-strany-posle-nachala-svo-rossiyane-massovo-vozvrashhayutsya-na-rodinu.html), [Komsomolskaya Pravda](https://www.kp.ru/daily/27573/4842340/), [Agents Media](https://www.agents.media/demograf-rasskazal-o-vozvrashhenii-v-rossiyu-do-poloviny-uehavshih-iz-rossii-v-2022-godu/),
+  -   In other languages:\
+    [Jungle.World (DE)](https://jungle.world/artikel/2023/03/die-kompetenten-werden-durch-die-loyalen-ersetzt), \href{https://www.information.dk/udland/2023/02/stoerste-brain-drain-30-aar-ressourcestaerke-russere-antonina-startet-nyt-liv-udlandet}{Information (DA)}, \href{https://www.cdt.ch/news/erano-scappati-dalla-guerra-ora-stanno-tornando-a-casa-331807}{Corriere Del Ticino (ES)}, \href{https://www.ceskenoviny.cz/zpravy/rusove-kteri-po-unoru-odjeli-z-vlasti-zacali-podle-pruzkumu-vice-verit-lidem/2302793}{Ceske Noviny (CS)}, [Pravda (SK)](https://spravy.pravda.sk/svet/clanok/651763-rusi-ktori-po-februari-odisli-z-vlasti-zacali-podla-prieskumu-viac-verit-ludom/)
+
+- **Collaborator**, A Comparative Study of Russian Migrant Communities following the Full-Scale Invasion of Ukraine (DemEx), with Marlene Laruelle, Zuzanna Brunarska, Paul Goode, and Ivetta Sergeeva, 2024. Funded by the National Science Foundation, 2024 - 2026
+
+- **Co-Investigator**, Building a Commons in the Russian Diaspora, with Professor Regina Smyth, Indiana University, Ivetta Sergeeva, Margarita Zavadskaya, Veronica Kostenko, Michail Turchenko and Andrey Semenov. 2022-2024
+
+- **Co-Principal Investigator**, [Violence Monitor](https://violencemonitor.org/), National Survey of Intimate Partner Violence in Russia, with Ivetta Sergeeva. Funded by Center for Advanced Governance, Moscow, 2021-2022
+
+    Media References (7+ References):  
+  - In Russian: \ [Moskva FM](https://www.mosfm.com/audios/151399), [Paper (1)](https://paperpaper.io/bil-unizhal-zastavlyal-kto-chashe-stalkiv/), [Paper (2)](https://paperpaper.io/papernews/2023/3/2/minimum-22-zhenshin-v-rossii-podvergalis/), [Holod](https://holod.media/2023/03/08/partnerskoe-nasilie/), [Seven days](https://7days.ru/lifestyle/family/toksichnye-otnosheniya-kak-raspoznat-abyuzera-i-uyti-ot-nego.htm), [Burning Hut](https://burninghut.ru/neposredstvenno-kaxa-drugoj-film-pokazal-nasilie/), [Sysblok](https://sysblok.ru/society/domashnee-i-partnerskoe-nasilie-v-rossii-skolko-u-nego-zhertv-i-kak-im-pomoch/)
+    
+
+
+## Academic Positions
+
+-   **Research Assistant**, Online survey of legislators in Italy, Brazil and Pakistan (Professor Miriam Golden), European University Insitute, Italy, 2021 
+-   **Junior Research Fellow**, Ronald F. Inglehart Laboratory for Comparative Social Research, Higher School of Economics, Saint Petersburg,  2020-2021
+- **Visiting Lecturer**, European University in Saint Petersburg, Saint Petersburg, 2021
+- **Visiting Lecturer**, Higher School of Economics, Saint Petersburg and Moscow, 2019-2021
+-   **Research Assistant**, Ronald F. Inglehart Laboratory for Comparative Social Research, Higher School of Economics, Saint Petersburg, 2019-2020
+
+<!-- <br>   -->
+<!-- \vspace{1mm} -->
+<!-- \hrule -->
+
+## Policy Briefs and Media Columns
+
+- [Should I Stay or Should I Go? Russian Emigration in Flux](https://carnegieendowment.org/russia-eurasia/politika/2024/07/russian-emigration-in-flux?lang=en&center=russia-eurasia), *Carnegie Politika*, 2024, with Ivetta Sergeeva
+
+-   Policy brief, [Far from Home: Russians Relocating to Latin America](https://www.ponarseurasia.org/far-from-home-russians-relocating-to-latin-america/), *Ponars Eurasia*, with Svetlana Ruseishvili and Ivetta Sergeeva
+
+- Research report, [A Year and a Half in Exile: Progress and Obstacles in the Integration of Russian Migrants](https://osf.io/preprints/socarxiv/ckf4v), *SocArXiv*, 2024, with Ivetta Sergeeva
+
+-   Policy brief, [In their Own Voice:  Supporting Russia’s Wartime Migrants](https://www.ponarseurasia.org/in-their-own-voice-supporting-russias-wartime-migrants/), *Ponars Eurasia*, with Rergina Smyth, Ivetta Sergeeva, Margarita Zavadskaya, Veronica Kostenko, Michail Turchenko, Andrey Semenov
+
+-   Research report, [Six Months in Exile: A New Life of Russian Emigrants](https://osf.io/preprints/socarxiv/epn2c/). *SocArXiv*, 2023, with Ivetta Sergeeva, Veronica Kostenko, Margarita Zavadskaya
+
+-   Policy brief, [New Russian Migrants Against the War: Political Action in Russia and Abroad](https://library.fes.de/pdf-files/international/20458.pdf). *Friedrich-Ebert-Stiftung*, 2023, with Ivetta Sergeeva, Margarita Zavadskaya, Veronica Kostenko
+
+-   Research report, [Studying Public Opinion Among Migrants: Challenges and Opportunities](https://www.ssoar.info/ssoar/bitstream/handle/document/86786/ssoar-russanald-2023-292-kamalov_et_al-Studying_Public_Opinion_Among_Migrants.pdf?sequence=1&isAllowed=y&lnkname=ssoar-russanald-2023-292-kamalov_et_al-Studying_Public_Opinion_Among_Migrants.pdf). *Russian Analytical Digest*, 2023, No. 292, with Ivetta Sergeeva, Margarita Zavadskaya, Veronica Kostenko
+
+- [The Russian Rhizome: a Social Portrait of New Immigrants](https://re-russia.net/en/expertise/045/). *Re-Russia*, 2023, with Ivetta Sergeeva, Veronica Kostenko, Margarita Zavadskaya
+
+-   [New Activists or New 'Common Folk?' The Evolution of Political Activism Among Russian Anti-war Emigrants](https://russiapost.info/society/common_folk). *Russia.Post*, 2023, with Ivetta Sergeeva, Margarita Zavadskaya, Veronica Kostenko
+
+-   [Abuse, Slapping, Control: More than 20 Million Russians have Experienced Partner violence](https://www.forbes.ru/forbes-woman/486866-ab-uz-slepki-kontrol-bolee-20-mln-rossian-stalkivalis-s-partnerskim-nasiliem). *Forbes Russia*, 2023, with Ivetta Sergeeva (in Russian)
+
+-   Research report, [Partner Violence in Russia: Results of a Series of Surveys](https://violencemonitor.org/report_2023), *Violencemonitor.org*, 2023, with Ivetta Sergeeva (in Russian)
+
+-   Research report, [The Great Exodus: A Portrait of New Migrants from Russia. Report on the results of the March 2022 survey](https://outrush.io/report_march_2022). *OutRush*, 2022, with Ivetta Sergeeva, Veronica Kostenko, Margarita Zavadskaya
+
+-   Policy brief, [Russia's 2022 Anti-War Exodus: The Attitudes and Expectations of Russian Migrants](https://www.ponarseurasia.org/russias-2022-anti-war-exodus-the-attitudes-and-expectations-of-russian-migrants/). *Ponars Eurasia*, 2022, with Ivetta Sergeeva, Veronica Kostenko, Margarita Zavadskaya
+
+
+<!-- <br>   -->
+<!-- \vspace{1mm} -->
+<!-- \hrule -->
+
+
+
+
+
+<!-- <br>   -->
+<!-- \vspace{1mm} -->
+<!-- \hrule -->
+
+
+<!-- <br>   -->
+<!-- \vspace{1mm} -->
+<!-- \hrule -->
+<!-- \vspace{1mm} -->
+
+<!-- ## Work In Progress -->
+
+
+
+
+
+<!-- <br>   -->
+<!-- \vspace{1mm} -->
+<!-- \hrule -->
+
+## Teaching Experience
+
+
+- Instructor, Intermediate Quantitative Methods in Social Sciences (Master's level),
+  European University in Saint Petersburg, Russia, 2021 
+- Instructor, [Research Seminar: Quantitative Methods in Political Research](https://spb.hse.ru/en/ma/pm/courses/375308895.html) (Master's level),
+  Higher School of Economics, Russia, 2021
+- Instructor, [Methodology of Contemporary Asian Studies](https://spb.hse.ru/en/ma/econasia/courses/375309025.html) (Master's level),
+  Higher School of Economics, Russia, 2020-2021
+- Instructor, [Introduction to Statistics with R](https://pandan.eusp.org/lecturerslist) (Master's level),
+  Yandex & European University in Saint Petersburg, 2020
+- Instructor, R-Crash Course (Master's level),
+  European University in Saint Petersburg, Russia, 2020
+- Instructor, [Methodology for Sociopolitical Research in East Asia](https://spb.hse.ru/en/ma/econasia/courses/298723267.html),
+  Higher School of Economics, Russia, 2019-2020  
+
+
+<!-- | **Course**                                                                                                        | **University**                                                                   | **Level** | **Year**  | -->
+<!-- |----------------------|------------------|-----------------|-----------------| -->
+<!-- | Intermediate Quantitative Methods in Social Sciences                                                              | [European University in Saint Petersburg](https://eusp.org/en/sociology), Russia | Masters   | 2021      | -->
+<!-- | [Research Seminar Quantitative Methods in Political Research](https://spb.hse.ru/en/ma/pm/courses/375308895.html) | [Higher School of Economics](https://spb.hse.ru/en/ma/pm), Russia                | Masters   | 2021      | -->
+<!-- | [Methodology of Contemporary Asian Studies](https://spb.hse.ru/en/ma/econasia/courses/375309025.html)             | [Higher School of Economics](https://spb.hse.ru/en/ma/econasia), Russia          | Masters   | 2020-2021 | -->
+<!-- | [Introduction to Statistics with R](https://pandan.eusp.org/lecturerslist)                                        | [Yandex & European University in Saint Petersburg](https://pandan.eusp.org/)     | Masters   | 2020      | -->
+<!-- | R-crash course                                                                                                    | [European University in Saint Petersburg](https://eusp.org/en/sociology)         | Masters   | 2020      | -->
+<!-- | [Methodology for Sociopolitical Research in East Asia](https://spb.hse.ru/en/ma/econasia/courses/298723267.html)  | [Higher School of Economics](https://spb.hse.ru/en/ma/econasia), Russia          | Masters   | 2019-2020 | -->
+
+
+<!-- \vspace{1mm} -->
+<!-- \hrule -->
+<!-- \vspace{1mm} -->
+
+## Grants and Scholarships
+
+<!-- - Grant, Democracy in Exile (DemEx), Lead Investigator Marlene Laruelle, Co-Principal Investigators Ivetta Sergeeva, Paul Goode, Zuzanna Brunarska, *collaborators: Emil Kamalov*, Margarita Zavadskaya, NSF, 2024-2026 -->
+<!-- - Mapping Opportunities for Social Infrastructure of Russian Anti-War Migration in Latin America, with Vladimir Rouvinski and Ivetta Sergeeva, U.S. Russia Foundation, 2024 -->
+- Grant, Trajectories of Russian Anti-War Migrants: panel survey, Early Stage Research grant, European University Institute, 2023
+- Exchange Grant, European University Institute, 2024
+- PhD Grants for Foreigners, Italian Ministry of Foreign Affairs, 2021-2024
+- Grant, Survey on Intimate Partner Violence Prevalence in Russia, Center for Advanced Governance, with Ivetta Sergeeva, Moscow, 2021
+- Grant, Survey on Healthcare Reform in Russia, Center for Advanced Governance, with Boris Sokolov, Margarita Zavadskaya and Ivetta Sergeeva, Moscow, 2020
+- Scholarship, Oxford Russia Fund, 2020-2021
+- Increased State Academic Scholarship, Higher School of Economics, Russia, 2018-2019
+- FIRST+ Scholarship, Finnish scholarship for exchange students, 2018
+
+
+
+
+<!-- <br>   -->
+<!-- \vspace{1mm} -->
+<!-- \hrule  -->
+
+<!-- \vspace{1mm} -->
+
+## Selected Conferences and Workshops
+- How to Maintain a Panel of Political Migrants: Evidence from a Field Experiment. American Political Science Association Annual Meeting, September, 2024
+- Can Migrant Organizations Evade the Long Arm of Autocrats? A Conjoint Experiment on Donation Preferences Among Russian Exiles. European Political Science Association conference, July, 2024
+-   Can Migrant Organizations Evade the Long Arm of Autocrats? A Conjoint Experiment on Donation Preferences Among Russian Exiles, Association for Slavic, East European, and Eurasian Studies (ASEEES) Convention, December, 2023
+-   Year and a Half in Exile: What Changed in the Lives of Russian Emigrants, invited presentation, European Commission working group on mapping the New Russian Diaspora in Europe and the Neighbourhood, November, 2023 
+
+<!-- -   *Can Migrant Organizations Evade the Long Arm of Autocrats? A Conjoint Experiment on Donation Preferences Among Russian Exiles*, Central Slavic Conference: Panels on Russians at Wartime, November, 2023 -->
+<!-- <!-- -   *Helping to Flee a Political Crisis: a Conjoint Experiment of Russian Migrants*, The British Association for Slavonic and East European Studies (BASEES), April, 2023 -->
+<!-- -  *The Role of Communication Networks Among Russian Emigrants in Shaping Political Discourse*, Portulans Institute, Oxford Roundtable, September, 2023. -->
+<!-- -   *Six months in emigration: the emergence of transnational social networks among new Russian emigrants*, ZOiS Workshop: Exploring the New Exodus from Russia: Migration, Adaptation and Transnational Engagement,  February, 2023  -->
+<!-- -   *Democracy in Exile? Estimating the Capacity for Collective Action among Russian Anti-War Migrants. Evidence from a Panel Survey*, ZOiS Workshop: Exploring the New Exodus from Russia: Migration, Adaptation and Transnational Engagement,  February, 2023  -->
+<!-- -   *The effect of discrimination on the political behavior of recent migrants: evidence from two waves of the panel survey of new Russian migrants*, Robert Schuman Centre for Advanced Studies, Migration Working Group, European University Institute, January, 2023 -->
+<!-- -   *Helping to flee a political crisis: a Conjoint Experiment of Russian Migrants*, Aleksanteri Institute, University of Helsinki: Elections after 2022: The Short and Long-Term Impact of the Russian Invasion of Ukraine, December, 2022  -->
+<!-- -   *Solidarity Between New Russian Migrants: Evidence from a Conjoint Experiment*, Robert Schuman Centre for Advanced Studies, Migration Working Group, European University Institute, November, 2022 -->
+<!-- -   *Surveying Post-2022 Emigrants from Russia with OutRush Project: Methodological Issues and Limitations*,XXII April International Academic Conference on Economic and Social Development, Higher School of Economics, Moscow, April, 2023 -->
+<!-- -   *The Effects of Unhappiness on Preferences for Redistribution*, XXI April International Academic Conference on Economic and Social Development, Higher School of Economics, Moscow, April, 2021. -->
+<!-- -   *National Pride and Subjective Well-being of Russians*, X Grushin Sociological Conference, Moscow, October, 2020 -->
+<!-- -   *Subjective Well-being of Migrants in Russia: Effects of Regional Characteristics and Migration Legislation*, 4th International Russia Longitudinal Monitoring Survey of HSE User Conference. Higher School of Economics, University of North Carolina -- Chapel Hill, Moscow, May, 2019 -->
+
+
+
+<!-- <br>   -->
+<!-- \vspace{1mm} -->
+<!-- \hrule -->
+<!-- \vspace{1mm} -->
+
+<!-- ## Additional Training -->
+<!-- -   Ethics in Human Subjects Research, CITI, 2022 -->
+<!-- -   Global Corruption Workshop, Boris Nemtsov Foundation for Freedom, January 2022 -->
+<!-- -   Exchange student in Jyvaskyla University, Finland, September-December 2018 -->
+<!-- -   Bayesian Statistical Analyses for Social Scientists, LCSR Summer School, August 2018  -->
+<!-- -   Summer School on Migration organized by Russian Red Cross, June 2018 -->
+
+<!-- <br>   -->
+<!-- \hrule -->
+
+<!-- ## Interviews and Comments for Media -->
+
+<!-- -   [The Russians returning home from self-imposed exile](https://www.ft.com/content/5e6bcce9-7bda-4b29-b1b7-f7df6e879fd9), *Financial Times* (English), 2023 -->
+
+<!-- -   [Why are relocating individuals returning home?](https://echofm.online/programs/utrennij-razvorot/fragment-utrennego-razvorota-166), *Zhivoy Gvozd*, video blog (Russian), 2023 -->
+
+<!-- -   [New Russian Emigration: Who, Where, and Why People are Leaving Russia Today](https://open.spotify.com/episode/3n2gfxhNFRaSmrK8BFzE5U). *Yura, we've found out everything*, podcast (Russian), 2023 -->
+
+<!-- -   [Emigrants of 2022 do not plan to return to Russia. How has their life changed in six months? Results of a large-scale study](https://paperpaper.ru/emigranty-2022-go-ne-planiruyut-vozvrashat/). *Paper* (Russian), 2023 -->
+
+<!-- -   [Det største brain drain i 30 år: Ressourcestærke russere som Antonina har startet et nyt liv i udlandet](https://www.information.dk/udland/2023/02/stoerste-brain-drain-30-aar-ressourcestaerke-russere-antonina-startet-nyt-liv-udlandet). *Information* (Danish), 2023 -->
+
+<!-- -   [More than 20 million Russians have faced intimate partner violence](https://www.mosfm.com/audios/151399). *Moscow FM*, radio (Russian), 2023 -->
+
+<!-- -   [Young scholars in our professional team: interview for university page](https://spb.hse.ru/en/ma/econasia/news/382861781.html). *Higher School of Economics* (English), 2020 -->
+
+
+<!-- <br>   -->
+<!-- \vspace{1mm} -->
+<!-- \hrule -->
+<!-- \vspace{1mm} -->
+
+## Skills
+
+-   **Languages**: Russian (native), English (C1)
+
+-   **Software**: R, Python (basic), Latex, Qualtrics, Git
+
+-   **Research Skills**: statistical modeling, experimental and quasi-experimental design, transparent and reproducible research, survey design, panel surveys, interviews
+
