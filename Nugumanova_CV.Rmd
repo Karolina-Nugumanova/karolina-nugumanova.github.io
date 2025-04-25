@@ -1,5 +1,5 @@
 ---
-title: "Karolina Nugumanova_CV"
+title: "Karolina Nugumanova"
 output:
   pdf_document:
     latex_engine: xelatex
@@ -95,7 +95,7 @@ urlcolor: blue
 
 ## Non-Peer-Reviewed Publications
 
--   [Men’s Words, Women’s Work: Exploring the Reverse Gender Gap in Post-2022 Russian Emigration](https://www.research-collection.ethz.ch/handle/20.500.11850/692533). In *Russian Opposition in Exile, Part 1: Internal Heterogeneity, 10(316)* (2024).
+-   [Men’s Words, Women’s Work: Exploring the Reverse Gender Gap in Post-2022 Russian Emigration](https://www.research-collection.ethz.ch/handle/20.500.11850/692533). In *Russian Analytical Digest(RAD)* (2024).
 
 
 <!-- <br>   -->
@@ -104,9 +104,9 @@ urlcolor: blue
 
 <!-- \hrule -->
 
-## Revise & Resubmit
+<!-- ## Revise & Resubmit -->
 
--   "Feminism in Action: Unveiling the Political Power of the Feminist Anti-war Resistance", (R&R at *Communist and Post-Communist Studies*)
+<!-- -   "Feminism in Action: Unveiling the Political Power of the Feminist Anti-war Resistance", (R&R at *Communist and Post-Communist Studies*) -->
 
 
 <!-- <br>   -->
@@ -306,4 +306,4 @@ urlcolor: blue
 
 -   **Software**: R, Latex, Qualtrics, Git
 
--   **Research Skills**: statistical modeling, experimental and quasi-experimental design, transparent and reproducible research, survey design, panel surveys, interviews
+-   **Research Skills**: statistical modeling, transparent and reproducible research, survey design, panel surveys, interviews
