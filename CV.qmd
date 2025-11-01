@@ -1,348 +1,77 @@
 ---
 title: "CV"
+description: "Curriculum Vitae"
+date: 10-31-2025
+title-block-banner: "#f5c37d"
+published-title: CV last updated
+engine: knitr 
+cv:
+  pdf: "Karolina_Nugumanova_CV_311025.pdf"
 ---
 
-<!-- --- -->
+```{css, echo=FALSE}
 
-<!-- title: "CV" -->
+#title-block-header .title {
+    display: none;
+}
 
-<!-- output: -->
+#title-block-header .description {  /* Adapt based on the actual class or ID */
+    color: black;
+    font-size: 1.7em;  /* Adjust as needed */ 
+    font-weight: bold;  /* Makes the text bold */
+}
 
-<!--   pdf_document: -->
+```
 
-<!--     latex_engine: xelatex -->
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
 
-<!--     keep_tex: true -->
-
-<!--   html_document: -->
-
-<!--     df_print: paged -->
-
-<!-- header-includes: -->
-
-<!-- - \usepackage{fontspec} -->
-
-<!-- - \usepackage{polyglossia} -->
-
-<!-- - \setmainlanguage{english} -->
-
-<!-- - \setotherlanguage{russian} -->
-
-<!-- - \usepackage{enumitem} -->
-
-<!-- - \setlist{nolistsep} -->
-
-<!-- - \usepackage{sectsty} -->
-
-<!-- - \sectionfont{\centering} -->
-
-<!-- - \usepackage[margin=1in]{geometry} -->
-
-<!-- - \usepackage{multicol} -->
-
-<!-- urlcolor: blue -->
-
-<!-- --- -->
-
-<!-- This css code to control size of the page title. Here it is 0 to make it invisible -->
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
 
 ```{=html}
 <style>
-.title {
-  font-size: 0px;
-}
+  .btn-black {
+    background-color: #f5c37d;
+    color: black;
+  }
 </style>
+
+<p class="text-center">
+  <a class="btn btn-lg btn-black cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download CV
+  </a>
+</p>
+
+<style>
+  .embed-container {
+    text-align: center;
+    width: 180%;  /* Adjust as needed */
+    margin: auto;  /* Centers the container */
+  }
+
+  .embed-container iframe {
+    width: 100%;  /* Takes the full width of its parent container */
+    height: 1400px;  /* Adjust as needed */
+    border: 0.5px;
+  }
+</style>
+
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
+</div>
 ```
-My Curriculum Vitae available [here](https://drive.google.com/open?id=1sia680YPK_Va4iN1uqwWC7o70kRgecEL&usp=drive_fs).
-
-
-<!-- **Date of birth**: 25.10.1988\ -->
-
-<!-- **Email**: [emil.kamalov\@eui.eu](mailto:emil.kamalov@eui.eu){.email}, [em.kamalov\@gmail.com](mailto:em.kamalov@gmail.com){.email}\ -->
-
-<!-- **Phone**: +39-351-926-99-08\ -->
-
-<!-- **Webpage**: [www.emilkamalov.com](https://emilkamalov.com/) -->
-
-**Research interests**: political behavior, migration, authoritarianism, gender studies, Russia
-
-<!-- <br>   -->
-
-\vspace{1mm} \hrule
-
-<!-- \vspace{1mm}  -->
-
-## Education
-
--   2023 --- present\
-    **PhD candidate** (defense expected 2027)\
-    Department of Political Science and Sociology, Scuola Normale Superiore\
-    Supervisors: Assistant Professor Lorenzo Zamponi, Senior Assistant Professor Martín Portos García
-
--   2026 (upcoming)\
-    **Exchange Student**\
-    Institute of Social Science, The University of Tokyo\
-    Supervisor: Associate Professor Masaaki Higashijima
-
--   2020-2022\
-    **MA in Sociology**\
-    Department of Sociology, European University St. Petersburg, Russia\
-    **GPA**: 4.6/5
-
--   2021\
-    **Exchange student**\
-    Globalisation Program, Venice International University, Italy\
-    **GPA**: 8.8/10<!-- 2010-2013\ -->
-
-<!-- **PhD-student**\ -->
-
-<!-- Elabuga Institute of Kazan Federal University. -->
-
--   2016-2020\
-    **BA in Sociology**\
-    Novosibirsk State University, Novosibirsk, Russia\
-    **GPA**: 4.3/5.
-
-<!-- -   2004-2007\ -->
-
-<!--     **Diploma with distinction in specialized secondary education, Qualification: accountant**\ -->
-
-<!--     Kama State Engineering and Economics Academy.\ -->
-
-<!--     **GPA**: 4.8/5. -->
-
-<!-- <br>   -->
-
-<!-- \vspace{1mm} -->
-
-<!-- \hrule -->
-
-<!-- \vspace{1mm}  -->
-
-## Peer-Reviewed Publications
-
--   [‘Great, Great Sorrow and Eternal Silence’: An Experiment in Sociological Dream Interpretation after the 24th of February 2022.](https://thefebruaryjournal.org/index.php/tfj/article/view/67), with Anonymous Co-Author. In *The February Journal* (2023)
-
-## Non-Peer-Reviewed Publications
-
--   [Men’s Words, Women’s Work: Exploring the Reverse Gender Gap in Post-2022 Russian Emigration](https://www.research-collection.ethz.ch/handle/20.500.11850/692533). In *Russian Analytical Digest* (2024).
-
-<!-- <br>   -->
-
-<!-- \vspace{1mm} -->
-
-<!-- \hrule -->
-
-<!-- ## Revise & Resubmit -->
-
-
-<!-- -   "Feminism in Action: Unveiling the Political Power of the Feminist Anti-war Resistance", (R&R at *Communist and Post-Communist Studies*) -->
-
-<!-- <br>   -->
-
-<!-- \vspace{1mm} -->
-
-<!-- \hrule -->
-
-<!-- \vspace{1mm} -->
-
-
-## Work in Progress
-
--   "Do Citizenship Regimes Shape Political Incorporation? Evidence from Russian Post-2022 Emigrants"
-
--   "Gendered Response to War: Explaining Gender Gap in Political Activism of Wartime Russian Emigrants, 2022-2023", with Emil Kamalov and Ivetta Sergeeva
-
-## Data collection
-
--   **Investigator**, [OutRush](https://outrush.io/eng), a panel survey of Russian political migrants, with Emil Kamalov (PI) and Ivetta Sergeeva (PI). Funded by European University Institute and U.S. Russia Foundation, 2022 --- present.
-
-    Media references (70+ references):
-
-    -   In English:\
-        [Bloomberg](https://www.bloomberg.com/news/articles/2024-05-02/russians-who-fled-war-return-in-boost-for-putin-s-war-economy), \href{https://www.ft.com/content/5e6bcce9-7bda-4b29-b1b7-f7df6e879fd9}{Financial Times}, [Al Jazeera](https://www.aljazeera.com/news/2024/1/22/russian-exiles-unlikely-to-return), [Deutsche Welle](https://www.dw.com/en/russia-why-people-are-returning-despite-the-war-in-ukraine/a-67022321), \href{https://www.cnbc.com/2022/11/25/georgia-armenia-turkey-economies-boom-with-russian-wealth-migration.html}{CNBC}, \href{https://fortune.com/europe/2022/08/20/russia-brain-drain-young-russians-leaving-after-ukraine-war-putin/}{Fortune}, \href{https://www.themoscowtimes.com/2023/10/25/15-of-russians-who-fled-war-mobilization-have-returned-survey-a82885}{The Moscow Times (1)}, \href{https://www.moscowtimes.ru/2023/01/19/sotsialnii-portret-novoi-volni-rossiiskih-emigrantov-a31239}{The Moscow Times (2)}, [The Japan Times](https://www.japantimes.co.jp/news/2024/05/02/world/politics/russians-putin-war-economy/)
-    -   In Russian:\
-        \href{https://www.bbc.com/russian/features-65686712}{BBC}, \href{https://www.dw.com/ru/sdelka-s-sovestu-pokinuvsie-rossiu-i-potom-vernuvsiesa-o-svoem-opyte/a-66896905}{Deutsche Welle}, [Voice of America](https://www.instagram.com/p/Cy1WVu2LbYT/), [Meduza (1)](https://meduza.io/episodes/2023/07/10/chinovniki-uveryayut-mnogie-uehavshie-ot-voyny-rossiyane-mechtayut-vernutsya-obratno-a-kak-na-samom-dele-rasskazyvaet-sotsiolog-nika-kostenko), \href{https://meduza.io/feature/2022/12/23/uehavshie-rossiyane-stali-bednee-no-zato-teper-bolshe-doveryayut-lyudyam-i-veryat-v-buduschee}{Meduza (2)}, \href{https://meduza.io/feature/2022/07/31/chem-nyneshnyaya-volna-emigratsii-otlichaetsya-ot-drugih-predstaviteli-kakih-professiy-uehali-sobirayutsya-li-migranty-vernutsya}{Meduza (3)}, \href{https://www.rbc.ru/spb_sz/29/01/2023/63ce99cc9a794787b4a2e9de}{RBC (1)}, \href{https://www.rbc.ru/politics/25/10/2023/6538b8739a7947719d23fd1e}{RBC (2)}, [RBC (3)](https://www.youtube.com/watch?v=7NsNp4MoUJw&ab_channel=%D0%A0%D0%91%D0%9A%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8), [Forbes Russia](https://t.me/forbesglobalrus/3396), \href{https://www.youtube.com/watch?v=Bvcfj9a9XH8&t=4028s}{Zhivoy Gvozd}, \href{https://istories.media/news/2023/10/25/v-rossiyu-mogli-vernutsya-bolee-15-uekhavshikh-posle-nachala-voini-schitayut-issledovateli/}{Important Stories}, \href{https://open.spotify.com/episode/3n2gfxhNFRaSmrK8BFzE5U}{Rasstriga.doc}, \href{https://paperpaper.ru/kto-svyazyvaet-svoe-budushee-s-rossiej-b/}{Paper (1)}, \href{https://paperpaper.ru/emigranty-2022-go-ne-planiruyut-vozvrashat/}{Paper (2)}, [Karèn Shainyan](https://youtu.be/VzaFzSVtDtA), \href{https://rtvi.com/news/ft-bolee-15-rossijskih-emigrantov-vremenno-ili-nadolgo-vernulis-v-rossiyu/}{RTVI}, \href{https://novayagazeta-ru.cdn.ampproject.org/c/s/novayagazeta.ru/amp/articles/2022/12/27/strana-ubytiia}{Novaya Gazeta}, \href{https://www.severreal.org/a/rabotaem-do-pervogo-donosa-chto-budet-s-naukoy-i-vysshim-obrazovaniem-/32127897.html}{Sever Real}, [VC](https://vc.ru/money/575523-den-313-kolichestvo-nevyezdnyh-iz-za-dolgov-rossiyan-k-novomu-godu-stalo-rekordnym-za-15-let), [Feminist Anti-War Resistance](https://syg.ma/@feminist-anti-war-resistance/uiekhavshiie-rossiianie-bolieie-fieministski-nastroieny-sotsiologhi-iz-proiekta-outrush-o-novoi-volnie-rossiiskoi-emighratsii), [Klops](https://klops.ru/other/2023-10-25/282009-15-relokantov-pokinuvshih-rossiyu-posle-nachala-svo-vernulis-domoy-issledovateli), [Vot Tak](https://vot-tak.tv/novosti/27-10-2023-demograf-dopustil), [Glagol](https://glagol.press/uchjonye-soobshhili-o-vozvrashhenii-v-rossiju-relokantov), [Grodno 24](https://grodno24.com/2023/10/uehavshie-iz-strany-posle-nachala-svo-rossiyane-massovo-vozvrashhayutsya-na-rodinu.html), [Komsomolskaya Pravda](https://www.kp.ru/daily/27573/4842340/), [Agents Media](https://www.agents.media/demograf-rasskazal-o-vozvrashhenii-v-rossiyu-do-poloviny-uehavshih-iz-rossii-v-2022-godu/),
-    -   In other languages:\
-        [Jungle.World (DE)](https://jungle.world/artikel/2023/03/die-kompetenten-werden-durch-die-loyalen-ersetzt), \href{https://www.information.dk/udland/2023/02/stoerste-brain-drain-30-aar-ressourcestaerke-russere-antonina-startet-nyt-liv-udlandet}{Information (DA)}, \href{https://www.cdt.ch/news/erano-scappati-dalla-guerra-ora-stanno-tornando-a-casa-331807}{Corriere Del Ticino (ES)}, \href{https://www.ceskenoviny.cz/zpravy/rusove-kteri-po-unoru-odjeli-z-vlasti-zacali-podle-pruzkumu-vice-verit-lidem/2302793}{Ceske Noviny (CS)}, [Pravda (SK)](https://spravy.pravda.sk/svet/clanok/651763-rusi-ktori-po-februari-odisli-z-vlasti-zacali-podla-prieskumu-viac-verit-ludom/)
-
--   **Principal Investigator**, [The Science of Dreams](https://readymag.website/u94255285/wardreams/2/), National Survey of Dreams of Russians During the War in Ukraine. 2022-present
-
--   **Investigator**, Feminist Antiwar Resistance, with Professor Regina Smyth (PI), Indiana University, and Vlada Baranova, Veronica Kostenko, Natalia Kovylyaeva, Valeria Utkina. 2023-2024
-
-## Academic Positions
-
--   **Investigator**, OutRush Project - Online survey of Russian post-2022 emigrants, with Emil Kamalov and Ivetta Sergeeva, European University Institute, Italy, 2022-present
--   **Research Assistant**, A Comparative Study of Russian Migrant Communities following the Full-Scale Invasion of Ukraine (DemEx), with Marlene Laruelle, Zuzanna Brunarska, Paul Goode, Emil Kamalov and Ivetta Sergeeva, 2024. Funded by the National Science Foundation, 2024 - 2026
--   **Research Assistant**, Research Project 'Building a Commons in the Russian Diaspora', with Professor Regina Smyth, Indiana University, Emil Kamalov, Ivetta Sergeeva, Margarita Zavadskaya, Veronica Kostenko, Michail Turchenko and Andrey Semenov. 2022-2024
-
-<!-- <br>   -->
-
-<!-- \vspace{1mm} -->
-
-<!-- \hrule -->
-
-## Research Reports and Media Columns
-
--   Research report, [Mapping and gathering Russian artists and cultural workers in exile](https://outrush.io/report_artists_2024), 2024
-
--   Research report, [On the Move: Mobility, Integration, and Dynamics of Russian Emigration in 2022-2024](https://outrush.io/report_march_2025_eng). With Emil Kamalov and Ivetta Sergeeva, 2025
-
--   Research report, [One and a Half Years Later: Progress and Barriers in the Integration of Russian Emigrants. Analytical Report Based on the Third Wave of the OutRush Survey](https://outrush.io/report_january_2024). With Emil Kamalov, Ivetta Sergeeva, Margarita Zavadskaya, and Veronica Kostenko, 2024 (in Russian)
-
--   [How do you sleep during the war?](https://posle.media/language/en/how-do-you-sleep-during-the-war/), *Posle Media*, 2023.
-
--   [I had a dream about Putin'. What war-time dreams tell us about reality](https://republic.ru/posts/107912). *Republic*, 2023 (in Russian)
-
-<!-- <br>   -->
-
-<!-- \vspace{1mm} -->
-
-<!-- \hrule -->
-
-<!-- <br>   -->
-
-<!-- \vspace{1mm} -->
-
-<!-- \hrule -->
-
-<!-- <br>   -->
-
-<!-- \vspace{1mm} -->
-
-<!-- \hrule -->
-
-<!-- \vspace{1mm} -->
-
-<!-- ## Work In Progress -->
-
-<!-- <br>   -->
-
-<!-- \vspace{1mm} -->
-
-<!-- \hrule -->
-
-<!-- ## Teaching Experience -->
-
-<!-- -   Instructor, Intermediate Quantitative Methods in Social Sciences (Master's level), European University in Saint Petersburg, Russia, 2021 -->
-
-<!-- -   Instructor, [Research Seminar: Quantitative Methods in Political Research](https://spb.hse.ru/en/ma/pm/courses/375308895.html) (Master's level), Higher School of Economics, Russia, 2021 -->
-
-<!-- -   Instructor, [Methodology of Contemporary Asian Studies](https://spb.hse.ru/en/ma/econasia/courses/375309025.html) (Master's level), Higher School of Economics, Russia, 2020-2021 -->
-
-<!-- -   Instructor, [Introduction to Statistics with R](https://pandan.eusp.org/lecturerslist) (Master's level), Yandex & European University in Saint Petersburg, 2020 -->
-
-<!-- -   Instructor, R-Crash Course (Master's level), European University in Saint Petersburg, Russia, 2020 -->
-
-<!-- -   Instructor, [Methodology for Sociopolitical Research in East Asia](https://spb.hse.ru/en/ma/econasia/courses/298723267.html), Higher School of Economics, Russia, 2019-2020 -->
-
-<!-- | **Course**                                                                                                        | **University**                                                                   | **Level** | **Year**  | -->
-
-<!-- |----------------------|------------------|-----------------|-----------------| -->
-
-<!-- | Intermediate Quantitative Methods in Social Sciences                                                              | [European University in Saint Petersburg](https://eusp.org/en/sociology), Russia | Masters   | 2021      | -->
-
-<!-- | [Research Seminar Quantitative Methods in Political Research](https://spb.hse.ru/en/ma/pm/courses/375308895.html) | [Higher School of Economics](https://spb.hse.ru/en/ma/pm), Russia                | Masters   | 2021      | -->
-
-<!-- | [Methodology of Contemporary Asian Studies](https://spb.hse.ru/en/ma/econasia/courses/375309025.html)             | [Higher School of Economics](https://spb.hse.ru/en/ma/econasia), Russia          | Masters   | 2020-2021 | -->
-
-<!-- | [Introduction to Statistics with R](https://pandan.eusp.org/lecturerslist)                                        | [Yandex & European University in Saint Petersburg](https://pandan.eusp.org/)     | Masters   | 2020      | -->
-
-<!-- | R-crash course                                                                                                    | [European University in Saint Petersburg](https://eusp.org/en/sociology)         | Masters   | 2020      | -->
-
-<!-- | [Methodology for Sociopolitical Research in East Asia](https://spb.hse.ru/en/ma/econasia/courses/298723267.html)  | [Higher School of Economics](https://spb.hse.ru/en/ma/econasia), Russia          | Masters   | 2019-2020 | -->
-
-<!-- \vspace{1mm} -->
-
-<!-- \hrule -->
-
-<!-- \vspace{1mm} -->
-
-## Grants and Scholarships
-
--   Grant, Democracy in Exile (DemEx), Lead Investigator Marlene Laruelle, Co-Principal Investigators Ivetta Sergeeva, Paul Goode, Zuzanna Brunarska, *collaborators: Karolina Nugumanova*, Emil Kamalov, Margarita Zavadskaya, NSF, 2024-2026
-
--   Mapping Opportunities for Social Infrastructure of Russian Anti-War Migration in Latin America, with Vladimir Rouvinski, Emil Kamalov, and Ivetta Sergeeva, U.S. Russia Foundation, 2024
-
--   Twice grant holder for winning of the National Sociology Olympiad, Higher School of Economics, and Yandex, 2021, 2022
-
--   Exchange Student Grant, Scuola Normale Superiore, 2025
-
--   PhD Grant, National Recovery and Resilience Plan (PNRR), 2023-2027
-
--   PhD Mobility Grant, Scuola Normale Superiore, 2023-2025
-
--   MA Scholarship, European University at St.Petersburg, 2020-2022
-
--   Grant from Dekabristen e.V. to develop a website for [The Science of Dreams Project](https://readymag.website/u94255285/wardreams/2/), 2022
-
-<!-- <br>   -->
-
-<!-- \vspace{1mm} -->
-
-<!-- \hrule  -->
-
-<!-- \vspace{1mm} -->
-
-## Selected Conferences and Workshops
-
--   Gendered Response to War: Analysing Patterns of Political Activism of Post-War Russian Emigrants, 2022-2023. K. Nugumanova, E.Kamalov, I. Sergeeva. Association for Slavic, East European, and Eurasian Studies (ASEEES) Convention, November, 2024. Boston
--   Feminism in Action: Unveiling the Political Power of the Feminist Antiwar Resistance. K.Nugumanova. Aleksanteri Conference “Resisting Authoritarianism in Eurasia”. October 23-25, 2024. Helsinki
--   Russian Diaspora: trends, risks and entrepreneurship. Russia Expert Seminar "Russia's outlook in the new geopolitical reality". *EUI Robert Schuman centre*, April 28, 2025, Florence
--   Gendered Responses to War: Analyzing Differences and Underlying Factors in the Case of Russian Emigration, 2022-2023. 15th European Graduate Network Conference. April 3-5, 2024, Zurich
-
-<!-- <br>   -->
-
-<!-- \vspace{1mm} -->
-
-<!-- \hrule -->
-
-<!-- \vspace{1mm} -->
-
-<!-- ## Additional Training -->
-
-<!-- -   Ethics in Human Subjects Research, CITI, 2022 -->
-
-<!-- -   Global Corruption Workshop, Boris Nemtsov Foundation for Freedom, January 2022 -->
-
-<!-- -   Exchange student in Jyvaskyla University, Finland, September-December 2018 -->
-
-<!-- -   Bayesian Statistical Analyses for Social Scientists, LCSR Summer School, August 2018  -->
-
-<!-- -   Summer School on Migration organized by Russian Red Cross, June 2018 -->
-
-<!-- <br>   -->
-
-<!-- \hrule -->
-
-<!-- ## Interviews and Comments for Media -->
-
-<!-- -   [The Russians returning home from self-imposed exile](https://www.ft.com/content/5e6bcce9-7bda-4b29-b1b7-f7df6e879fd9), *Financial Times* (English), 2023 -->
-
-<!-- -   [Why are relocating individuals returning home?](https://echofm.online/programs/utrennij-razvorot/fragment-utrennego-razvorota-166), *Zhivoy Gvozd*, video blog (Russian), 2023 -->
-
-<!-- -   [New Russian Emigration: Who, Where, and Why People are Leaving Russia Today](https://open.spotify.com/episode/3n2gfxhNFRaSmrK8BFzE5U). *Yura, we've found out everything*, podcast (Russian), 2023 -->
-
-<!-- -   [Emigrants of 2022 do not plan to return to Russia. How has their life changed in six months? Results of a large-scale study](https://paperpaper.ru/emigranty-2022-go-ne-planiruyut-vozvrashat/). *Paper* (Russian), 2023 -->
-
-<!-- -   [Det største brain drain i 30 år: Ressourcestærke russere som Antonina har startet et nyt liv i udlandet](https://www.information.dk/udland/2023/02/stoerste-brain-drain-30-aar-ressourcestaerke-russere-antonina-startet-nyt-liv-udlandet). *Information* (Danish), 2023 -->
-
-<!-- -   [More than 20 million Russians have faced intimate partner violence](https://www.mosfm.com/audios/151399). *Moscow FM*, radio (Russian), 2023 -->
-
-<!-- -   [Young scholars in our professional team: interview for university page](https://spb.hse.ru/en/ma/econasia/news/382861781.html). *Higher School of Economics* (English), 2020 -->
-
-<!-- <br>   -->
-
-<!-- \vspace{1mm} -->
-
-<!-- \hrule -->
-
-<!-- \vspace{1mm} -->
-
-## Skills
-
--   **Languages**: Russian (native), English (C1), Italian (B1)
-
--   **Software**: R, Latex, Qualtrics, Git
-
--   **Research Skills**: statistical modeling, transparent and reproducible research, survey design, panel surveys, interviews

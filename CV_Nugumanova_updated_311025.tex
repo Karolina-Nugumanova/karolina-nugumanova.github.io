@@ -1,0 +1,437 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage{english}
+\setotherlanguage{russian}
+\usepackage{enumitem}
+\setlist{nolistsep}
+\usepackage{sectsty}
+\sectionfont{\centering}
+\usepackage[margin=1in]{geometry}
+\usepackage{multicol}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Karolina Nugumanova},
+  colorlinks=true,
+  linkcolor={Maroon},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Karolina Nugumanova}
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+\maketitle
+
+Scuola Normale Superiore Address: Palazzo Strozzi, Florence, Italy
+Email: karolina.nugumanova@sns.it, kar.nugumanova@gmail.com Tel:
++39-351-562-03-37 Webpage: karolina-nugumanova.github.io
+
+\textbf{Research interests:} political behavior, migration,
+authoritarianism, gender studies, gender gap
+
+\subsection{Education}\label{education}
+
+\begin{itemize}
+\item
+  \textbf{PhD Candidate} (\emph{defense expected 2027})\\
+  \emph{Department of Political Science and Sociology}, Scuola Normale
+  Superiore, Florence\\
+  Supervisors: Martín Portos García, Lorenzo Zamponi
+\item
+  \textbf{MA in Sociology}, \emph{European University at
+  St.~Petersburg}, Russia (2020--2022)\\
+  GPA: 4.6 / 5
+\item
+  \textbf{BA in Sociology}, \emph{Novosibirsk State University}, Russia
+  (2016--2020)\\
+  GPA: 4.3 / 5
+\end{itemize}
+
+\subsection{Visiting Positions}\label{visiting-positions}
+
+\begin{itemize}
+\item
+  \textbf{Visiting Fellow}, \emph{Institute of Social Science}, The
+  University of Tokyo (upcoming 2026)\\
+  Supervisor: Masaaki Higashijima
+\item
+  \textbf{Exchange Student}, \emph{Globalisation Program}, Venice
+  International University (2021)\\
+  GPA: 8.8 / 10
+\end{itemize}
+
+\subsection{Publications}\label{publications}
+
+\begin{itemize}
+\item
+  \emph{Micromobilising Emotion: How Feminist Anti-War Resistance Builds
+  Affective Infrastructure in Exile.}\\
+  In \emph{Communist and Post-Communist Studies} (2025)
+\item
+  \href{https://thefebruaryjournal.org/index.php/tfj/article/view/67}{\emph{`Great,
+  Great Sorrow and Eternal Silence': An Experiment in Sociological Dream
+  Interpretation after the 24th of February 2022}}. In \emph{The
+  February Journal} (2023)
+\item
+  \href{https://www.research-collection.ethz.ch/handle/20.500.11850/692533}{\emph{Men's
+  Words, Women's Work: Exploring the Reverse Gender Gap in Post-2022
+  Russian Emigration}}.\\
+  In \emph{Russian Analytical Digest (RAD)} (2024)
+\end{itemize}
+
+\subsection{Work in Progress}\label{work-in-progress}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Reverse Gender Gap in Transnational Activism: War-Driven
+  Political Engagement Among Russian Post-2022 Emigrants}, with Emil
+  Kamalov and Ivetta Sergeeva\\
+\item
+  \emph{Destination Preferences in Secondary Migration Among Politically
+  Induced Migrants from Authoritarian States: Evidence from Conjoint
+  Experiment}, with Emil Kamalov and Ivetta Sergeeva\\
+\item
+  \emph{The Gendered Opportunity Structure of Exile: How Host-Country
+  Contexts Shape Migrant Political Participation}\\
+\item
+  \emph{Two Percent of Trust: Methodological Innovations for Retaining
+  Fearful Respondents in Panel Surveys}, with Emil Kamalov and Ivetta
+  Sergeeva\\
+\item
+  \emph{New Russian Migration to Latin America: Mobile Middle Classes,
+  Flight from Illiberalism, and the Formation of New Urban Communities},
+  with Svetlana Ruseishvili, Emil Kamalov, and Ivetta Sergeeva
+\end{itemize}
+
+\subsection{Data Collection}\label{data-collection}
+
+\begin{itemize}
+\item
+  \textbf{Investigator}, \href{https://outrush.io/eng}{OutRush} ---
+  Panel survey of Russian political migrants (2022--present).\\
+  Funded by \emph{European University Institute} and \emph{U.S. Russia
+  Foundation}.\\
+  Media references (70+ references):
+
+  \begin{itemize}
+  \tightlist
+  \item
+    In English:\\
+    \href{https://www.bloomberg.com/news/articles/2024-05-02/russians-who-fled-war-return-in-boost-for-putin-s-war-economy}{Bloomberg},
+    \href{https://www.ft.com/content/5e6bcce9-7bda-4b29-b1b7-f7df6e879fd9}{Financial Times},
+    \href{https://www.aljazeera.com/news/2024/1/22/russian-exiles-unlikely-to-return}{Al
+    Jazeera},
+    \href{https://www.dw.com/en/russia-why-people-are-returning-despite-the-war-in-ukraine/a-67022321}{Deutsche
+    Welle},
+    \href{https://www.cnbc.com/2022/11/25/georgia-armenia-turkey-economies-boom-with-russian-wealth-migration.html}{CNBC},
+    \href{https://fortune.com/europe/2022/08/20/russia-brain-drain-young-russians-leaving-after-ukraine-war-putin/}{Fortune},
+    \href{https://www.themoscowtimes.com/2023/10/25/15-of-russians-who-fled-war-mobilization-have-returned-survey-a82885}{The Moscow Times (1)},
+    \href{https://www.moscowtimes.ru/2023/01/19/sotsialnii-portret-novoi-volni-rossiiskih-emigrantov-a31239}{The Moscow Times (2)},
+    \href{https://www.japantimes.co.jp/news/2024/05/02/world/politics/russians-putin-war-economy/}{The
+    Japan Times}
+  \item
+    In Russian:\\
+    \href{https://www.bbc.com/russian/features-65686712}{BBC},
+    \href{https://www.dw.com/ru/sdelka-s-sovestu-pokinuvsie-rossiu-i-potom-vernuvsiesa-o-svoem-opyte/a-66896905}{Deutsche Welle},
+    \href{https://www.instagram.com/p/Cy1WVu2LbYT/}{Voice of America},
+    \href{https://meduza.io/episodes/2023/07/10/chinovniki-uveryayut-mnogie-uehavshie-ot-voyny-rossiyane-mechtayut-vernutsya-obratno-a-kak-na-samom-dele-rasskazyvaet-sotsiolog-nika-kostenko}{Meduza
+    (1)},
+    \href{https://meduza.io/feature/2022/12/23/uehavshie-rossiyane-stali-bednee-no-zato-teper-bolshe-doveryayut-lyudyam-i-veryat-v-buduschee}{Meduza (2)},
+    \href{https://meduza.io/feature/2022/07/31/chem-nyneshnyaya-volna-emigratsii-otlichaetsya-ot-drugih-predstaviteli-kakih-professiy-uehali-sobirayutsya-li-migranty-vernutsya}{Meduza (3)},
+    \href{https://www.rbc.ru/spb_sz/29/01/2023/63ce99cc9a794787b4a2e9de}{RBC (1)},
+    \href{https://www.rbc.ru/politics/25/10/2023/6538b8739a7947719d23fd1e}{RBC (2)},
+    \href{https://www.youtube.com/watch?v=7NsNp4MoUJw&ab_channel=\%D0\%A0\%D0\%91\%D0\%9A\%D0\%98\%D0\%BD\%D0\%B2\%D0\%B5\%D1\%81\%D1\%82\%D0\%B8\%D1\%86\%D0\%B8\%D0\%B8}{RBC
+    (3)}, \href{https://t.me/forbesglobalrus/3396}{Forbes Russia},
+    \href{https://www.youtube.com/watch?v=Bvcfj9a9XH8&t=4028s}{Zhivoy Gvozd},
+    \href{https://istories.media/news/2023/10/25/v-rossiyu-mogli-vernutsya-bolee-15-uekhavshikh-posle-nachala-voini-schitayut-issledovateli/}{Important Stories},
+    \href{https://open.spotify.com/episode/3n2gfxhNFRaSmrK8BFzE5U}{Rasstriga.doc},
+    \href{https://paperpaper.ru/kto-svyazyvaet-svoe-budushee-s-rossiej-b/}{Paper (1)},
+    \href{https://paperpaper.ru/emigranty-2022-go-ne-planiruyut-vozvrashat/}{Paper (2)},
+    \href{https://youtu.be/VzaFzSVtDtA}{Karèn Shainyan},
+    \href{https://rtvi.com/news/ft-bolee-15-rossijskih-emigrantov-vremenno-ili-nadolgo-vernulis-v-rossiyu/}{RTVI},
+    \href{https://novayagazeta-ru.cdn.ampproject.org/c/s/novayagazeta.ru/amp/articles/2022/12/27/strana-ubytiia}{Novaya Gazeta},
+    \href{https://www.severreal.org/a/rabotaem-do-pervogo-donosa-chto-budet-s-naukoy-i-vysshim-obrazovaniem-/32127897.html}{Sever Real},
+    \href{https://vc.ru/money/575523-den-313-kolichestvo-nevyezdnyh-iz-za-dolgov-rossiyan-k-novomu-godu-stalo-rekordnym-za-15-let}{VC},
+    \href{https://syg.ma/@feminist-anti-war-resistance/uiekhavshiie-rossiianie-bolieie-fieministski-nastroieny-sotsiologhi-iz-proiekta-outrush-o-novoi-volnie-rossiiskoi-emighratsii}{Feminist
+    Anti-War Resistance},
+    \href{https://klops.ru/other/2023-10-25/282009-15-relokantov-pokinuvshih-rossiyu-posle-nachala-svo-vernulis-domoy-issledovateli}{Klops},
+    \href{https://vot-tak.tv/novosti/27-10-2023-demograf-dopustil}{Vot
+    Tak},
+    \href{https://glagol.press/uchjonye-soobshhili-o-vozvrashhenii-v-rossiju-relokantov}{Glagol},
+    \href{https://grodno24.com/2023/10/uehavshie-iz-strany-posle-nachala-svo-rossiyane-massovo-vozvrashhayutsya-na-rodinu.html}{Grodno
+    24}, \href{https://www.kp.ru/daily/27573/4842340/}{Komsomolskaya
+    Pravda},
+    \href{https://www.agents.media/demograf-rasskazal-o-vozvrashhenii-v-rossiyu-do-poloviny-uehavshih-iz-rossii-v-2022-godu/}{Agents
+    Media},
+  \item
+    In other languages:\\
+    \href{https://jungle.world/artikel/2023/03/die-kompetenten-werden-durch-die-loyalen-ersetzt}{Jungle.World
+    (DE)},
+    \href{https://www.information.dk/udland/2023/02/stoerste-brain-drain-30-aar-ressourcestaerke-russere-antonina-startet-nyt-liv-udlandet}{Information (DA)},
+    \href{https://www.cdt.ch/news/erano-scappati-dalla-guerra-ora-stanno-tornando-a-casa-331807}{Corriere Del Ticino (ES)},
+    \href{https://www.ceskenoviny.cz/zpravy/rusove-kteri-po-unoru-odjeli-z-vlasti-zacali-podle-pruzkumu-vice-verit-lidem/2302793}{Ceske Noviny (CS)},
+    \href{https://spravy.pravda.sk/svet/clanok/651763-rusi-ktori-po-februari-odisli-z-vlasti-zacali-podla-prieskumu-viac-verit-ludom/}{Pravda
+    (SK)}
+  \end{itemize}
+\item
+  \textbf{Principal Investigator},
+  \href{https://readymag.website/u94255285/wardreams/2/}{The Science of
+  Dreams} ---\\
+  National Survey of Dreams of Russians During the War (2022--present).
+\item
+  \textbf{Co-Investigator}, \emph{Feminist Anti-War Resistance} --- With
+  Regina Smyth et al.~(2023--2024)
+\end{itemize}
+
+\subsection{Academic Positions}\label{academic-positions}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Principal Investigator}, \emph{The Science of Dreams Project -
+  A research on dreams of Russians during the war} (2022--present)\\
+\item
+  \textbf{Co-Investigator}, \emph{OutRush Project - Online survey of
+  Russian post-2022 emigrants}, with Emil Kamalov (PI) and Ivetta
+  Sergeeva (PI). EUI/Stanford (2022--present)\\
+\item
+  \textbf{Co-Investigator}, \emph{A Comparative Study of Russian Migrant
+  Communities following the Full-Scale Invasion of Ukraine (DemEx
+  Project)}, with Marlene Laruelle et al.~NSF-funded (2024--2026)\\
+\item
+  \textbf{Co-investigator}, \emph{A Study on Feminist Antiwar Resistance
+  in Exile}, with Regina Smyth et. al.~Funded by University of Oslo
+  (2023-2024)
+\item
+  \textbf{Research Assistant}, \emph{Building a Commons in the Russian
+  Diaspora}, with Regina Smyth et al.~(2022--2024)
+\end{itemize}
+
+\subsection{Research Reports and Media
+Columns}\label{research-reports-and-media-columns}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5204018}{\emph{On
+  the Move: Mobility, Integration, and Dynamics of Russian Emigration in
+  2022--2024}}, with Emil Kamalov and Ivetta Sergeeva, 2025\\
+\item
+  \href{https://outrush.io/report_latam}{\emph{From Russia to Latin
+  America: Integration, Challenges, and Aspirations of Russian Post-2022
+  Emigrants}}, with Emil Kamalov and Ivetta Sergeeva, 2025\\
+\item
+  \href{https://outrush.io/report_artists_2024}{\emph{Mapping and
+  Gathering Russian Artists and Cultural Workers in Exile}}, 2024\\
+\item
+  \href{https://outrush.io/report_january_2024}{\emph{One and a Half
+  Years Later: Progress and Barriers in the Integration of Russian
+  Emigrants}}, 2024\\
+\item
+  \href{https://posle.media/language/en/how-do-you-sleep-during-the-war/}{\emph{How
+  do you sleep during the war?}}, \emph{Posle Media}, 2023\\
+\item
+  \href{https://republic.ru/posts/107912}{\emph{I had a dream about
+  Putin. What war-time dreams tell us about reality}}, \emph{Republic},
+  2023 (in Russian)
+\end{itemize}
+
+\subsection{Grants and Scholarships}\label{grants-and-scholarships}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Democracy in Exile (DemEx)} --- NSF Grant, with Marlene Laruelle
+  et al (2024--2026)\\
+\item
+  \emph{Mapping Opportunities for Social Infrastructure of Russian
+  Anti-War Migration in Latin America} --- USRF Grant, with Vladimir
+  Rouvinski, Emil Kamalov, and Ivetta Sergeeva (2024)
+\item
+  \emph{PhD Grant} --- PNRR, 2023--2027\\
+\item
+  \emph{Exchange Student Grant} --- SNS, 2025\\
+\item
+  \emph{MA Scholarship} --- European University at St.~Petersburg,
+  2020--2022\\
+\item
+  Twice winner, \emph{National Sociology Olympiad Grant} --- HSE \&
+  Yandex (2021, 2022)
+\end{itemize}
+
+\subsection{Selected Conferences}\label{selected-conferences}
+
+\subsubsection{2025}\label{section}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{European Consortium for Political Research (ECPR)} ---
+  Thessaloniki --- Presenter\\
+\item
+  \emph{ASEEES Annual Convention} --- Washington DC --- Presenter \&
+  Discussant\\
+\item
+  \emph{Gens Conference -- International Conference on Gender Studies
+  (ISA, ESA, Italian Sociological Association)} --- Stintino ---
+  Presenter\\
+\item
+  \emph{International Business Conference, Kovcheg Business.Network}
+\item
+  \emph{Academic Bridges International Conference} --- Online ---
+  Presenter
+\end{itemize}
+
+\subsubsection{2024}\label{section-1}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{ASEEES Annual Convention} --- Boston --- Presenter\\
+\item
+  \emph{Aleksanteri Conference ``Resisting Authoritarianism in
+  Eurasia,'' } --- Helsinki --- Presenter
+\item
+  \emph{European Graduate Network (EGN)} --- Zurich --- Discussant\\
+\item
+  \emph{New Russian Exodus and Host Societies: Impacts and Responses}
+  --- Yerevan --- Presenter
+\item
+  \emph{International Academic Conference ``(In)Visible Russian
+  (Anti-)War Migration''} --- Warsaw --- Presenter
+\end{itemize}
+
+\subsubsection{2023}\label{section-2}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Aleksanteri Conference ``Decolonizing Space in the Global
+  East,'' University of Helsinki} --- Helsinki --- Presenter\\
+\item
+  \emph{International Conference ``Problematizing Migration: Mobility
+  and Vulnerablization in an Age of Abandonment and Inequalities,''
+  University of Palermo} --- Palermo --- Presenter
+\end{itemize}
+
+\subsection{Workshops and Invited
+Talks}\label{workshops-and-invited-talks}
+
+\subsubsection{2025}\label{section-3}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Gender, Peace and Security: Resistance and Resilience} --- BIEA
+  Nairobi --- Presenter, Discussant \& Chair\\
+\item
+  \emph{Mobility and Diversity: War-Induced Russian Migration since
+  February 2022} --- ZOiS, Berlin --- Presenter\\
+\item
+  \emph{Russia's Outlook in the New Geopolitical Reality, Russia Expert
+  Seminar} --- EUI, Florence --- Presenter
+\end{itemize}
+
+\subsubsection{2024}\label{section-4}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Migration Working Group} --- EUI, Florence --- Presenter\\
+\item
+  \emph{LCSR International Workshop ``Recent Advances in Comparative
+  Study of Values''} --- Moscow (online) --- Presenter
+\item
+  \emph{Cross-border voices: emigration, gender, and activism in the
+  wake of the Russian invasion of Ukraine. EDRAM Workshop, Ilia State
+  University} --- Tbilisi --- Presenter\\
+\item
+  \emph{Cross-Border Repression and Solidarity: Navigating Threats,
+  Discrimination, and Civic Engagement among Russian Exiles} --- Riga
+  --- Presenter
+\end{itemize}
+
+\subsection{Skills}\label{skills}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Languages:} Russian (native), English (advanced), Italian
+  (intermediate)\\
+\item
+  \textbf{Software:} R, LaTeX, Qualtrics, Git\\
+\item
+  \textbf{Research:} statistical modeling, reproducible research, survey
+  design, panel surveys, qualitative interviews
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Updated: October 2025
+
+\end{document}
