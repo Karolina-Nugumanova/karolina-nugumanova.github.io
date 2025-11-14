@@ -6,7 +6,7 @@ title-block-banner: "#f5c37d"
 published-title: CV last updated
 engine: knitr 
 cv:
-  pdf: "Karolina_Nugumanova_CV_311025.pdf"
+  pdf: "Karolina_Nugumanova_CV_14112025.pdf"
 ---
 
 ```{css, echo=FALSE}
