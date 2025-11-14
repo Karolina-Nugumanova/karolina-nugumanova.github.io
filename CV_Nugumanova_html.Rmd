@@ -1,0 +1,175 @@
+---
+title: "Karolina Nugumanova"
+output:
+  html_document:
+    toc: false
+    df_print: paged
+    theme: flatly
+    css: styles.css
+  pdf_document:
+    toc: false
+---
+
+::: {style="text-align: center; font-size: 18px; line-height: 1.4;"}
+<strong>Scuola Normale Superiore</strong><br> <strong>Address:</strong> Palazzo Strozzi, Florence, Italy<br> <strong>Email:</strong> <a href="mailto:karolina.nugumanova@sns.it">karolina.nugumanova\@sns.it</a>, <a href="mailto:kar.nugumanova@gmail.com">kar.nugumanova\@gmail.com</a><br> <strong>Tel:</strong> +39-351-562-03-37<br> <strong>Webpage:</strong> <a href="https://karolina-nugumanova.github.io/">karolina-nugumanova.github.io</a>
+:::
+
+<hr>
+
+**Research interests:** political behavior, migration, authoritarianism, gender studies, gender gap
+
+<hr>
+
+## Education
+
+-   **PhD Candidate** (*defense expected 2027*)\
+    *Department of Political Science and Sociology*, Scuola Normale Superiore, Florence\
+    Supervisors: Martín Portos García, Lorenzo Zamponi
+
+-   **MA in Sociology**, *European University at St. Petersburg*, Russia (2020–2022)\
+    GPA: 4.6 / 5
+
+-   **BA in Sociology**, *Novosibirsk State University*, Russia (2016–2020)\
+    GPA: 4.3 / 5
+
+<hr>
+
+## Visiting Positions
+
+-   **Visiting Fellow**, *Institute of Social Science*, The University of Tokyo (upcoming 2026)\
+    Supervisor: Masaaki Higashijima
+
+-   **Exchange Student**, *Globalisation Program*, Venice International University (2021)\
+    GPA: 8.8 / 10
+
+<hr>
+
+## Publications
+
+-   *Micromobilising Emotion: How Feminist Anti-War Resistance Builds Affective Infrastructure in Exile.*\
+    In *Communist and Post-Communist Studies* (2025)
+
+-   [*‘Great, Great Sorrow and Eternal Silence’: An Experiment in Sociological Dream Interpretation after the 24th of February 2022*](https://thefebruaryjournal.org/index.php/tfj/article/view/67). In *The February Journal* (2023)
+
+-   [*Men’s Words, Women’s Work: Exploring the Reverse Gender Gap in Post-2022 Russian Emigration*](https://www.research-collection.ethz.ch/handle/20.500.11850/692533).\
+    In *Russian Analytical Digest (RAD)* (2024)
+
+<hr>
+
+## Work in Progress
+
+-   *Reverse Gender Gap in Transnational Activism: War-Driven Political Engagement Among Russian Post-2022 Emigrants*, with Emil Kamalov and Ivetta Sergeeva\
+-   *Destination Preferences in Secondary Migration Among Politically Induced Migrants from Authoritarian States: Evidence from Conjoint Experiment*, with Emil Kamalov and Ivetta Sergeeva\
+-   *The Gendered Opportunity Structure of Exile: How Host-Country Contexts Shape Migrant Political Participation*\
+-   *Two Percent of Trust: Methodological Innovations for Retaining Fearful Respondents in Panel Surveys*, with Emil Kamalov and Ivetta Sergeeva\
+-   *New Russian Migration to Latin America: Mobile Middle Classes, Flight from Illiberalism, and the Formation of New Urban Communities*, with Svetlana Ruseishvili, Emil Kamalov, and Ivetta Sergeeva
+
+<hr>
+
+## Data Collection
+
+-   **Investigator**, [OutRush](https://outrush.io/eng) — Panel survey of Russian political migrants (2022–present).\
+    Funded by *European University Institute* and *U.S. Russia Foundation*.\
+    Media references (70+ references):
+
+    -   In English:\
+        [Bloomberg](https://www.bloomberg.com/news/articles/2024-05-02/russians-who-fled-war-return-in-boost-for-putin-s-war-economy), \href{https://www.ft.com/content/5e6bcce9-7bda-4b29-b1b7-f7df6e879fd9}{Financial Times}, [Al Jazeera](https://www.aljazeera.com/news/2024/1/22/russian-exiles-unlikely-to-return), [Deutsche Welle](https://www.dw.com/en/russia-why-people-are-returning-despite-the-war-in-ukraine/a-67022321), \href{https://www.cnbc.com/2022/11/25/georgia-armenia-turkey-economies-boom-with-russian-wealth-migration.html}{CNBC}, \href{https://fortune.com/europe/2022/08/20/russia-brain-drain-young-russians-leaving-after-ukraine-war-putin/}{Fortune}, \href{https://www.themoscowtimes.com/2023/10/25/15-of-russians-who-fled-war-mobilization-have-returned-survey-a82885}{The Moscow Times (1)}, \href{https://www.moscowtimes.ru/2023/01/19/sotsialnii-portret-novoi-volni-rossiiskih-emigrantov-a31239}{The Moscow Times (2)}, [The Japan Times](https://www.japantimes.co.jp/news/2024/05/02/world/politics/russians-putin-war-economy/)
+    -   In Russian:\
+        \href{https://www.bbc.com/russian/features-65686712}{BBC}, \href{https://www.dw.com/ru/sdelka-s-sovestu-pokinuvsie-rossiu-i-potom-vernuvsiesa-o-svoem-opyte/a-66896905}{Deutsche Welle}, [Voice of America](https://www.instagram.com/p/Cy1WVu2LbYT/), [Meduza (1)](https://meduza.io/episodes/2023/07/10/chinovniki-uveryayut-mnogie-uehavshie-ot-voyny-rossiyane-mechtayut-vernutsya-obratno-a-kak-na-samom-dele-rasskazyvaet-sotsiolog-nika-kostenko), \href{https://meduza.io/feature/2022/12/23/uehavshie-rossiyane-stali-bednee-no-zato-teper-bolshe-doveryayut-lyudyam-i-veryat-v-buduschee}{Meduza (2)}, \href{https://meduza.io/feature/2022/07/31/chem-nyneshnyaya-volna-emigratsii-otlichaetsya-ot-drugih-predstaviteli-kakih-professiy-uehali-sobirayutsya-li-migranty-vernutsya}{Meduza (3)}, \href{https://www.rbc.ru/spb_sz/29/01/2023/63ce99cc9a794787b4a2e9de}{RBC (1)}, \href{https://www.rbc.ru/politics/25/10/2023/6538b8739a7947719d23fd1e}{RBC (2)}, [RBC (3)](https://www.youtube.com/watch?v=7NsNp4MoUJw&ab_channel=%D0%A0%D0%91%D0%9A%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8), [Forbes Russia](https://t.me/forbesglobalrus/3396), \href{https://www.youtube.com/watch?v=Bvcfj9a9XH8&t=4028s}{Zhivoy Gvozd}, \href{https://istories.media/news/2023/10/25/v-rossiyu-mogli-vernutsya-bolee-15-uekhavshikh-posle-nachala-voini-schitayut-issledovateli/}{Important Stories}, \href{https://open.spotify.com/episode/3n2gfxhNFRaSmrK8BFzE5U}{Rasstriga.doc}, \href{https://paperpaper.ru/kto-svyazyvaet-svoe-budushee-s-rossiej-b/}{Paper (1)}, \href{https://paperpaper.ru/emigranty-2022-go-ne-planiruyut-vozvrashat/}{Paper (2)}, [Karèn Shainyan](https://youtu.be/VzaFzSVtDtA), \href{https://rtvi.com/news/ft-bolee-15-rossijskih-emigrantov-vremenno-ili-nadolgo-vernulis-v-rossiyu/}{RTVI}, \href{https://novayagazeta-ru.cdn.ampproject.org/c/s/novayagazeta.ru/amp/articles/2022/12/27/strana-ubytiia}{Novaya Gazeta}, \href{https://www.severreal.org/a/rabotaem-do-pervogo-donosa-chto-budet-s-naukoy-i-vysshim-obrazovaniem-/32127897.html}{Sever Real}, [VC](https://vc.ru/money/575523-den-313-kolichestvo-nevyezdnyh-iz-za-dolgov-rossiyan-k-novomu-godu-stalo-rekordnym-za-15-let), [Feminist Anti-War Resistance](https://syg.ma/@feminist-anti-war-resistance/uiekhavshiie-rossiianie-bolieie-fieministski-nastroieny-sotsiologhi-iz-proiekta-outrush-o-novoi-volnie-rossiiskoi-emighratsii), [Klops](https://klops.ru/other/2023-10-25/282009-15-relokantov-pokinuvshih-rossiyu-posle-nachala-svo-vernulis-domoy-issledovateli), [Vot Tak](https://vot-tak.tv/novosti/27-10-2023-demograf-dopustil), [Glagol](https://glagol.press/uchjonye-soobshhili-o-vozvrashhenii-v-rossiju-relokantov), [Grodno 24](https://grodno24.com/2023/10/uehavshie-iz-strany-posle-nachala-svo-rossiyane-massovo-vozvrashhayutsya-na-rodinu.html), [Komsomolskaya Pravda](https://www.kp.ru/daily/27573/4842340/), [Agents Media](https://www.agents.media/demograf-rasskazal-o-vozvrashhenii-v-rossiyu-do-poloviny-uehavshih-iz-rossii-v-2022-godu/),
+    -   In other languages:\
+        [Jungle.World (DE)](https://jungle.world/artikel/2023/03/die-kompetenten-werden-durch-die-loyalen-ersetzt), \href{https://www.information.dk/udland/2023/02/stoerste-brain-drain-30-aar-ressourcestaerke-russere-antonina-startet-nyt-liv-udlandet}{Information (DA)}, \href{https://www.cdt.ch/news/erano-scappati-dalla-guerra-ora-stanno-tornando-a-casa-331807}{Corriere Del Ticino (ES)}, \href{https://www.ceskenoviny.cz/zpravy/rusove-kteri-po-unoru-odjeli-z-vlasti-zacali-podle-pruzkumu-vice-verit-lidem/2302793}{Ceske Noviny (CS)}, [Pravda (SK)](https://spravy.pravda.sk/svet/clanok/651763-rusi-ktori-po-februari-odisli-z-vlasti-zacali-podla-prieskumu-viac-verit-ludom/)
+
+-   **Principal Investigator**, [The Science of Dreams](https://readymag.website/u94255285/wardreams/2/) —\
+    National Survey of Dreams of Russians During the War (2022–present).
+
+-   **Co-Investigator**, *Feminist Anti-War Resistance* — With Regina Smyth et al. (2023–2024)
+
+<hr>
+
+## Academic Positions
+
+-   **Principal Investigator**, *The Science of Dreams Project - A research on dreams of Russians during the war* (2022–present)\
+-   **Co-Investigator**, *OutRush Project - Online survey of Russian post-2022 emigrants*, with Emil Kamalov (PI) and Ivetta Sergeeva (PI). EUI/Stanford (2022–present)\
+-   **Co-Investigator**, *A Comparative Study of Russian Migrant Communities following the Full-Scale Invasion of Ukraine (DemEx Project)*, with Marlene Laruelle et al. NSF-funded (2024–2026)\
+-   **Co-investigator**, *A Study on Feminist Antiwar Resistance in Exile*, with Regina Smyth et. al. Funded by University of Oslo (2023-2024)
+-   **Research Assistant**, *Building a Commons in the Russian Diaspora*, with Regina Smyth et al. (2022–2024)
+
+<hr>
+
+## Research Reports and Media Columns
+
+-   [*On the Move: Mobility, Integration, and Dynamics of Russian Emigration in 2022–2024*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5204018), with Emil Kamalov and Ivetta Sergeeva, 2025\
+-   [*From Russia to Latin America: Integration, Challenges, and Aspirations of Russian Post-2022 Emigrants*](https://outrush.io/report_latam), with Emil Kamalov and Ivetta Sergeeva, 2025\
+-   [*Mapping and Gathering Russian Artists and Cultural Workers in Exile*](https://outrush.io/report_artists_2024), 2024\
+-   [*One and a Half Years Later: Progress and Barriers in the Integration of Russian Emigrants*](https://outrush.io/report_january_2024), 2024\
+-   [*How do you sleep during the war?*](https://posle.media/language/en/how-do-you-sleep-during-the-war/), *Posle Media*, 2023\
+-   [*I had a dream about Putin. What war-time dreams tell us about reality*](https://republic.ru/posts/107912), *Republic*, 2023 (in Russian)
+
+<hr>
+
+## Grants and Scholarships
+
+-   *Democracy in Exile (DemEx)* — NSF Grant, with Marlene Laruelle et al (2024–2026)\
+-   *Mapping Opportunities for Social Infrastructure of Russian Anti-War Migration in Latin America* — USRF Grant, with Vladimir Rouvinski, Emil Kamalov, and Ivetta Sergeeva (2024)
+-   *PhD Grant* — PNRR, 2023–2027\
+-   *Exchange Student Grant* — SNS, 2025\
+-   *MA Scholarship* — European University at St. Petersburg, 2020–2022\
+-   Twice winner, *National Sociology Olympiad Grant* — HSE & Yandex (2021, 2022)
+
+<hr>
+
+## Selected Conferences
+
+### 2025
+
+-   *European Consortium for Political Research (ECPR)* — Thessaloniki — Presenter\
+-   *ASEEES Annual Convention* — Washington DC — Presenter & Discussant\
+-   *Gens Conference – International Conference on Gender Studies (ISA, ESA, Italian Sociological Association)* — Stintino — Presenter\
+-   *International Business Conference, Kovcheg Business.Network*
+-   *Academic Bridges International Conference* — Online — Presenter
+
+### 2024
+
+-   *ASEEES Annual Convention* — Boston — Presenter\
+-   *Aleksanteri Conference “Resisting Authoritarianism in Eurasia,”* — Helsinki — Presenter
+-   *European Graduate Network (EGN)* — Zurich — Discussant\
+-   *New Russian Exodus and Host Societies: Impacts and Responses* — Yerevan — Presenter
+-   *International Academic Conference “(In)Visible Russian (Anti-)War Migration”* — Warsaw — Presenter
+
+### 2023
+
+-   *Aleksanteri Conference “Decolonizing Space in the Global East,” University of Helsinki* — Helsinki — Presenter\
+-   *International Conference “Problematizing Migration: Mobility and Vulnerablization in an Age of Abandonment and Inequalities,” University of Palermo* — Palermo — Presenter
+
+<hr>
+
+## Workshops and Invited Talks
+
+### 2025
+
+-   *Gender, Peace and Security: Resistance and Resilience* — BIEA Nairobi — Presenter, Discussant & Chair\
+-   *Mobility and Diversity: War-Induced Russian Migration since February 2022* — ZOiS, Berlin — Presenter\
+-   *Russia’s Outlook in the New Geopolitical Reality, Russia Expert Seminar* — EUI, Florence — Presenter
+
+### 2024
+
+-   *Migration Working Group* — EUI, Florence — Presenter\
+-   *LCSR International Workshop “Recent Advances in Comparative Study of Values”* — Moscow (online) — Presenter
+-   *Cross-border voices: emigration, gender, and activism in the wake of the Russian invasion of Ukraine. EDRAM Workshop, Ilia State University* — Tbilisi — Presenter\
+-   *Cross-Border Repression and Solidarity: Navigating Threats, Discrimination, and Civic Engagement among Russian Exiles* — Riga — Presenter
+
+<hr>
+
+## Skills
+
+-   **Languages:** Russian (native), English (advanced), Italian (intermediate)\
+-   **Software:** R, LaTeX, Qualtrics, Git\
+-   **Research:** statistical modeling, reproducible research, survey design, panel surveys, qualitative interviews
+
+------------------------------------------------------------------------
+
+<p style="text-align:center; font-style:italic; color:gray;">
+
+Updated: October 2025
+
+</p>
