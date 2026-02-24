@@ -1,12 +1,12 @@
 ---
 title: "CV"
 description: "Curriculum Vitae"
-date: 01-09-2026
+date: 02-24-2026
 title-block-banner: "#f5c37d"
 published-title: CV last updated
 engine: knitr 
 cv:
-  pdf: "Nugumanova_CV_full_january.pdf"
+  pdf: "CV_Nugumanova_february_2026.pdf"
 ---
 
 ```{css, echo=FALSE}
