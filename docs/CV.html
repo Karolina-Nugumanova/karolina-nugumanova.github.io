@@ -2,15 +2,18 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-02-24">
+<meta name="dcterms.date" content="2026-05-03">
 <meta name="description" content="Curriculum Vitae">
 
 <title>CV – Karolina Nugumanova</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -39,10 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c6186e339592202bc77044b66e54d122.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c6486f12a8b7676d2a959fe5d88852c6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -98,7 +101,8 @@ gtag('config', 'G-JSNW9RCCW1', { 'anonymize_ip': true});
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./flavicon_new-removebg-preview.png" alt="" class="navbar-logo">
+    <img src="./flavicon_new-removebg-preview.png" alt="" class="navbar-logo light-content">
+    <img src="./flavicon_new-removebg-preview.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Karolina Nugumanova</span>
@@ -157,7 +161,7 @@ gtag('config', 'G-JSNW9RCCW1', { 'anonymize_ip': true});
       <div>
       <div class="quarto-title-meta-heading">CV last updated</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">February 24, 2026</p>
+        <p class="date">May 3, 2026</p>
       </div>
     </div>
     
@@ -222,7 +226,7 @@ gtag('config', 'G-JSNW9RCCW1', { 'anonymize_ip': true});
 </style>
 
 <p class="text-center">
-  <a class="btn btn-lg btn-black cv-download" href="CV_Nugumanova_february_2026.pdf" target="_blank">
+  <a class="btn btn-lg btn-black cv-download" href="CV_Nugumanova_may_2026.pdf" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i> Download CV
   </a>
 </p>
@@ -242,7 +246,7 @@ gtag('config', 'G-JSNW9RCCW1', { 'anonymize_ip': true});
 </style>
 
 <div class="embed-container">
-  <iframe src="CV_Nugumanova_february_2026.pdf" style="border: 0.5px"></iframe>
+  <iframe src="CV_Nugumanova_may_2026.pdf" style="border: 0.5px"></iframe>
 </div>
 
 
@@ -299,13 +303,14 @@ gtag('config', 'G-JSNW9RCCW1', { 'anonymize_ip': true});
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
