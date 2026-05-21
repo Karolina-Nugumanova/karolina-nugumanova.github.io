@@ -7,21 +7,23 @@ website:
   description: "Karolina Nugumanova: Personal Website"
   google-analytics: "G-JSNW9RCCW1"
   search: true
-  navbar:
-    # change color of navigation top panel, if you want
-    #background: "#cdc5c2"
+   navbar:
     background: "#f5c37d"
     foreground: "#000000"
     logo: flavicon_new-removebg-preview.png
     left:
       - href: index.qmd
         text: Home
-      - publications.qmd
-      - projects.qmd 
-      - teaching.qmd 
-      - academic_activities.qmd
-      - CV.qmd
-
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: teaching.qmd
+        text: Teaching
+      - href: academic_activities.qmd
+        text: Academic Activities
+      - href: CV.qmd
+        text: CV
   favicon: main_flav_4.png
   
   page-footer:
