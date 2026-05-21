@@ -32,7 +32,7 @@
 }
 
 .dream-card {
-  flex: 0 0 320px;
+  flex: 0 0 360px;
   scroll-snap-align: start;
   border-radius: 18px;
   background: #ffffff;
@@ -43,14 +43,15 @@
 
 .dream-card img {
   width: 100%;
-  height: 230px;
+  height: 250px;
   object-fit: cover;
   border-radius: 14px;
   margin-bottom: 12px;
+  display: block;
 }
 
 .dream-caption {
-  font-size: 0.74rem;
+  font-size: 0.76rem;
   color: #666;
   line-height: 1.35;
 }
@@ -67,6 +68,8 @@
   color: #777;
   margin-top: 8px;
 }
+
+
 
 
 /* 1. ИМПОРТ ШРИФТОВ С GOOGLE FONTS */
@@ -303,52 +306,4 @@ column-gap: 50px !important;
 
 
 ###
-
-.dream-carousel {
-  display: flex;
-  gap: 22px;
-  overflow-x: auto;
-  scroll-snap-type: x mandatory;
-  padding: 10px 4px 22px 4px;
-  margin-top: 18px;
-}
-
-.dream-card {
-  flex: 0 0 360px;
-  scroll-snap-align: start;
-  border-radius: 18px;
-  background: #ffffff;
-  border: 1px solid #e6e6e6;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.07);
-  padding: 16px;
-}
-
-.dream-card img {
-  width: 100%;
-  height: 250px;
-  object-fit: cover;
-  border-radius: 14px;
-  margin-bottom: 12px;
-  display: block;
-}
-
-.dream-caption {
-  font-size: 0.76rem;
-  color: #666;
-  line-height: 1.35;
-}
-
-.dream-text {
-  font-size: 0.9rem;
-  line-height: 1.55;
-  margin-top: 12px;
-  font-style: italic;
-}
-
-.dream-meta {
-  font-size: 0.78rem;
-  color: #777;
-  margin-top: 8px;
-}
-
 
