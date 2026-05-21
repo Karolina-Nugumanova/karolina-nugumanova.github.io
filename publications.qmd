@@ -9,7 +9,7 @@ title: "Publications and Media"
   font-size: 0px;
 }
 </style>
-````
+```
 
 ## Publications & Media
 
@@ -399,6 +399,6 @@ title: "Publications and Media"
 
 <div class="pub-venue">Paper, 8 April 2022</div>
 </div>
-```
+
 
 
