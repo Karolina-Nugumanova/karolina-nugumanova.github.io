@@ -195,7 +195,29 @@ h1, h2, h3, h4, h5, h6 {
   text-align: justify;
 }
 
+.pub-index {
+  font-family: var(--font-family-monospace);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  font-style: normal;
+}
 
+.index-scopus {
+  color: #1b4332;
+  background: #eaf5eb;
+}
+
+.index-wos {
+  color: #1a365d;
+  background: #edf2f7;
+}
+
+.pub-card details p.pub-abstract {
+  margin-top: 0.75rem;
+  margin-bottom: 0;
+}
 
 
 

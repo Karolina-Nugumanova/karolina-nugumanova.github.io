@@ -107,5 +107,5 @@ I welcome supervision of undergraduate and master's projects in:
 - Social movements and protest
 - Authoritarianism and democratic backsliding
 - Mixed-methods research
-- Survey and panel data analysis
-````   |
+- Survey and panel data analysis 
+
