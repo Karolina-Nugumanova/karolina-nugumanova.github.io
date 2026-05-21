@@ -7,7 +7,7 @@ website:
   description: "Karolina Nugumanova: Personal Website"
   google-analytics: "G-JSNW9RCCW1"
   search: true
-   navbar:
+  navbar:
     background: "#f5c37d"
     foreground: "#000000"
     logo: flavicon_new-removebg-preview.png
@@ -55,11 +55,12 @@ format:
     # backgroundcolor: "#ed961c"
     # mainfont: "Academy Regular"
     # mainfont: "Quicksand Regular"
-    fontsize: 13pt 
+    fontsize: 12pt 
 
     
 
 editor: visual
+
 
 
 
