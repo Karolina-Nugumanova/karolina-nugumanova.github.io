@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-<!-- This css code to control size of the page title. Here it is 0 to make it invisible -->
+<!-- Hide page title -->
 
 ```{=html}
 <style>
@@ -11,11 +11,101 @@ title: "Teaching"
 }
 </style>
 ```
-| **Course**                                                                                                        | **University**                                                                   | **Level** | **Year**  | **Syllabus** |
-|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------|-----------|--------------|
-| Intermediate Quantitative Methods in Social Sciences                                                              | [European University in Saint Petersburg](https://eusp.org/en/sociology), Russia | Masters   | 2021      |              |
-| [Research Seminar Quantitative Methods in Political Research](https://spb.hse.ru/en/ma/pm/courses/375308895.html) | [Higher School of Economics](https://spb.hse.ru/en/ma/pm), Russia                | Masters   | 2021      |              |
-| [Methodology of Contemporary Asian Studies](https://spb.hse.ru/en/ma/econasia/courses/375309025.html)             | [Higher School of Economics](https://spb.hse.ru/en/ma/econasia), Russia          | Masters   | 2020-2021 |              |
-| [Introduction to Statistics with R](https://pandan.eusp.org/lecturerslist)                                        | [Yandex & European University in Saint Petersburg](https://pandan.eusp.org/)     | Masters   | 2020      |              |
-| R-crash course                                                                                                    | [European University in Saint Petersburg](https://eusp.org/en/sociology)         | Masters   | 2020      |              |
-| [Methodology for Sociopolitical Research in East Asia](https://spb.hse.ru/en/ma/econasia/courses/298723267.html)  | [Higher School of Economics](https://spb.hse.ru/en/ma/econasia), Russia          | Masters   | 2019-2020 |              |
+
+# Teaching
+
+My teaching combines political sociology, comparative politics, migration studies, gender studies, and mix methods. I adopt a research-led and student-centered approach that integrates theory, contemporary case studies, discussion-based learning, and hands-on engagement with survey and qualitative data. 
+
+## Teaching Experience
+
+### Scuola Normale Superiore (Florence, Italy)
+
+**Gender Inequalities in Political Participation**  
+Guest lecture for *Political Behavior* (2025)  
+[[Syllabus](https://drive.google.com/file/d/1ppuvN08kfGT4-SFI4oSHPjGS_M-N_PP9/view)]
+
+### University of Tokyo – Institute of Social Science (ISS)
+
+**Moral Responsibility and the Reverse Gender Gap: Political Activism Among Russian Post-2022 Emigrants**  
+Invited guest lecture, 25 June 2026
+
+### Waseda University – Faculty of Human Sciences
+
+**Emotions, War, and Political Action in Exile: Gendered Patterns of Mobilization among Migrants from Authoritarian Regimes**  
+Invited guest lecture, 2026  
+[[Event page](https://www.waseda-iam.org/event-details/emotions-war-and-political-action-in-exile-gendered-patterns-of-mobilization-among-migrants-from-authoritarian-regime)]
+
+### Summer School “Gender-Likbez 4.0”
+European University at St. Petersburg
+
+**Gender Differences in Political and Civic Activism among Russian Migrants**  
+Invited guest lecture (2023)
+
+### Public Sociology and Outreach
+
+**Documentary Cinema and Society**  
+Public lecture series for a general audience, St. Petersburg (2021)
+
+---
+
+## Courses Prepared to Teach
+
+### Political Behavior under Authoritarianism and Democratic Backsliding
+*Graduate level*
+
+Topics include:
+
+- Political participation and voting behavior
+- Protest, repression, and social movements
+- Authoritarianism and democratic backsliding
+- Political psychology and emotions
+- Political communication and digital activism
+- Contentious politics and collective action
+
+### Gender, Migration, and Transnational Activism
+*Advanced undergraduate / graduate level*
+
+Topics include:
+
+- Forced migration and exile
+- Diaspora politics and transnationalism
+- Feminist movements and resistance
+- Gendered political participation
+- Transnational repression
+- Migration, citizenship, and belonging
+
+### Survey Research and Panel Data Analysis
+
+Topics include:
+
+- Survey design
+- Panel surveys and longitudinal research
+- Questionnaire construction
+- Causal inference
+- Data visualization and reproducible research
+
+
+## Teaching Materials
+
+Two complete syllabi are currently available upon request:
+
+- **Political Behavior under Authoritarianism and Democratic Backsliding**  
+
+- **Gender, Migration, and Transnational Activism**  
+
+Additional syllabi can be developed upon request in the areas of political sociology, migration studies, gender and feminist politics, social movements, political behavior, survey methodology, and mixed methods research.
+
+---
+
+## Student Supervision Interests
+
+I welcome supervision of undergraduate and master's projects in:
+
+- Political behavior and participation
+- Migration and diaspora studies
+- Gender and feminist politics
+- Social movements and protest
+- Authoritarianism and democratic backsliding
+- Mixed-methods research
+- Survey and panel data analysis
+````   |

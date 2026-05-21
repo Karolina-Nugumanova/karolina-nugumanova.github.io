@@ -18,7 +18,7 @@ website:
         text: Home
       - publications.qmd
       - projects.qmd 
-      #- teaching.qmd #if you want to use that pages uncomment them but you need to have relevant .qmd
+      - teaching.qmd 
       - academic_activities.qmd
       - CV.qmd
 
@@ -28,18 +28,10 @@ website:
     # Change color of the bottom part of the site
     #background: "#6aebc8"
     left: |
-      <br>
-      <br>
-      <br>
-      {{< fa regular copyright >}} Karolina Nugumanova, 2023<br>
-      All content licensed under {{< fa brands creative-commons >}}
-      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
-      Opinions are my own and do not represent my employer
-    
+
     right: |
       ![Logo image](totoro-removebg-preview.png){width=100px}<br> 
       Made with [R-Studio](https://posit.co/download/rstudio-desktop/) and [Quarto](https://quarto.org/)<br>
-      Inspiration and code snippets taken from [here](https://emilkamalov.github.io/)
       
 format:
   html:
@@ -57,13 +49,15 @@ format:
      number_sections: false
     
     # Additional things to control for all site
-    linkcolor: "#000000"
-    #backgroundcolor: "#ed961c"
-    # mainfont: "Roboto"
-    mainfont: "Academy Regular"
+    # linkcolor: "#000000"
+    # backgroundcolor: "#ed961c"
+    # mainfont: "Academy Regular"
     # mainfont: "Quicksand Regular"
     fontsize: 13pt 
+
     
 
 editor: visual
+
+
 

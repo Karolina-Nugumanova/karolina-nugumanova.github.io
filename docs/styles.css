@@ -1,15 +1,203 @@
-/* css styles */
+/* 1. ИМПОРТ ШРИФТОВ С GOOGLE FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap');
+
+:root {
+  --body-bg: #fcfbf9;          /* Элегантный песочно-бежевый фон страниц */
+  --body-color: #262626;       /* Темно-серый */
+  --link-color: #1b4332;       /* Хвойно-зеленый интеллектуальный акцент для ссылок */
+  --link-hover-color: #52b788; /* Зеленая мята при наведении */
+  --font-family-sans-serif: 'Inter', -apple-system, sans-serif;
+  --font-family-monospace: 'JetBrains Mono', monospace;
+  --font-family-headers: 'Space Grotesk', sans-serif;
+}
+
+/* Базовые стили */
+body {
+  background-color: var(--body-bg);
+  color: var(--body-color);
+  font-family: var(--font-family-sans-serif) !important;
+  line-height: 1.6;
+}
+
+/* Заголовки */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family-headers) !important;
+  font-weight: 600;
+  color: #111;
+  letter-spacing: -0.03em;
+}
+
+/* Оформление кнопок About-links (круглые кнопки на главной) */
+.about-links .btn {
+  font-family: var(--font-family-monospace) !important;
+  font-size: 0.85em !important;
+  font-weight: 500 !important;
+  background-color: #ffffff !important;
+  color: var(--link-color) !important;
+  border: 1px solid #e5e5e5 !important;
+  border-radius: 6px !important;
+  padding: 0.5em 1.2em !important;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.about-links .btn:hover {
+  background-color: var(--link-color) !important;
+  color: #ffffff !important;
+  border-color: var(--link-color) !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(27, 67, 50, 0.12);
+}
+
+/* Стили навигации (подстраиваются под настройки из _quarto.yml) */
+.navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
 .navbar-dark .navbar-brand {
+  font-family: var(--font-family-monospace);
+  font-weight: 600;
+  color: var(--body-color) !important;
   background-size: contain;
   padding-left: 2px !important;
   padding-right: 2px !important; 
   background-repeat: no-repeat;
 }
 
-
 .navbar-logo {
-    max-height: 60px;
-    max-width: 60px;
-    height: 60px;
-    width: 60px; 
+  max-height: 60px;
+  max-width: 60px;
+  height: 60px;
+  width: 60px; 
 }
+
+
+/* Контейнер карточки публикации */
+.pub-card {
+  background: #ffffff;
+  border: 1px solid #e9e8e3;
+  border-left: 4px solid var(--link-color); /* Фирменный хвойный акцент */
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.015), 0 1px 3px rgba(0, 0, 0, 0.02);
+  transition: all 0.25s ease;
+}
+
+.pub-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(27, 67, 50, 0.05);
+  border-left-color: var(--link-hover-color);
+}
+
+/* Бейджи статусов (Peer-Reviewed, Working Paper и т.д.) */
+.pub-badge {
+  font-family: var(--font-family-monospace);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  display: inline-block;
+  margin-bottom: 0.75rem;
+}
+
+.badge-peer {
+  background-color: #eaf5eb;
+  color: #1b4332;
+}
+
+.badge-review {
+  background-color: #fef3c7;
+  color: #d97706;
+}
+
+.badge-working {
+  background-color: #edf2f7;
+  color: #4a5568;
+}
+
+.badge-media {
+  background-color: #fce8e6;
+  color: #c53030;
+}
+
+/* Названия и авторы внутри карточки */
+.pub-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  line-height: 1.35;
+}
+
+.pub-title a {
+  color: #111111;
+  text-decoration: none;
+  border-bottom: 1px dashed #cccccc;
+  transition: border-color 0.2s;
+}
+
+.pub-title a:hover {
+  color: var(--link-color);
+  border-bottom-color: var(--link-color);
+}
+
+.pub-authors {
+  font-size: 0.95rem;
+  color: #4a5568;
+  margin-bottom: 0.5rem;
+}
+
+.pub-authors strong {
+  color: #111111;
+}
+
+.pub-venue {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #718096;
+  margin-bottom: 0.75rem;
+}
+
+/* Красивый аккордеон с абстрактом (details) */
+.pub-card details {
+  background: #fdfdfc;
+  border: 1px solid #f0efeb;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin-top: 0.75rem;
+}
+
+.pub-card summary {
+  font-family: var(--font-family-monospace);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #4a5568;
+  cursor: pointer;
+  outline: none;
+  user-select: none;
+}
+
+.pub-card summary:hover {
+  color: var(--link-color);
+}
+
+.pub-card details[open] summary {
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid #f0efeb;
+  padding-bottom: 0.25rem;
+}
+
+.pub-abstract {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: #4a5568;
+  text-align: justify;
+}
+
+
+
+
+
+
+
