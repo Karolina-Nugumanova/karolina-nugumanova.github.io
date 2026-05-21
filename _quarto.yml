@@ -47,7 +47,7 @@ format:
     toc_float: 
      collapsed: true
      smooth_scroll: true
-     toc_depth: 3
+     toc_depth: 4
      number_sections: false
     
     # Additional things to control for all site
