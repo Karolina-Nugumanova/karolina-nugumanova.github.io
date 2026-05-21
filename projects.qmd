@@ -180,7 +180,7 @@ Materials collected through the project have already contributed to academic pub
 <div class="dream-website-preview">
 
 <a href="https://readymag.website/u94255285/wardreams/2/" target="_blank">
-  <img src="dreams_website_preview.png" alt="Science of Dreams website preview">
+  <img src="dreams_website_preview.jpg" alt="Science of Dreams website preview">
 </a>
 
 <p>
