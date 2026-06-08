@@ -6,7 +6,7 @@ date: 05-24-2026
 published-title: CV last updated
 engine: knitr 
 cv:
-  pdf: "CV_Nugumanova_may22_2026.pdf"
+  pdf: "CV_Nugumanova_june_2026.pdf"
 ---
 
 ```{css, echo=FALSE}
