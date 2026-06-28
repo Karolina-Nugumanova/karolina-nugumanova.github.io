@@ -39,60 +39,55 @@ li {
 
 *Full panel, paper, or roundtable details are available upon request.*
 
-
 ### Peer-Reviewed International Conferences and Workshops
 
-* **American Political Science Association (APSA) Annual Meeting**, 2026 — Kamalov, E., **Nugumanova, K.**, & Sergeeva, I. (alphabetical order), *Transnational Repression and Engagement: Evidence from a Panel of Russian Exiles*. <span class="role-badge">Co-presenter, Chair & Discussant</span>
-* **European Consortium for Political Research (ECPR) General Conference**, 2026 — Kamalov, E., **Nugumanova, K.**, & Sergeeva, I. (alphabetical order), *Transnational Repression and Engagement: Evidence from a Panel of Russian Exiles*. <span class="role-badge">Paper Presenter & Discussant</span>
-* **European Consortium for Political Research (ECPR) General Conference**, 2025 — **Nugumanova, K.**, *Gendered Mobilization among Russian Emigrants in Exile*. <span class="role-badge">Paper Presenter</span>
-* **Association for Slavic, East European, and Eurasian Studies (ASEEES) Annual Convention**, 2025 — **Nugumanova, K.**, *Micromobilizing Emotion: How Feminist Anti-War Resistance Builds Affective Infrastructure in Exile*. <span class="role-badge">Invited Roundtable Speaker & Discussant</span>
-* **Association for Slavic, East European, and Eurasian Studies (ASEEES) Annual Convention**, 2024 — **Nugumanova, K.**, E. Kamalov, I. Sergeeva, *Gendered Response to War*. <span class="role-badge">Paper Presenter</span>
-* **ISA / ESA / AIS Gens Conference**, 2025 — **Nugumanova, K.**, *Gender, War, and Political Action among Russian Exiles*. <span class="role-badge">Paper Presenter</span>
-* **Gender, Peace and Security Workshop**, 2025 — **Nugumanova, K.**, *Gender, Peace, and Security among Russian Anti-War Emigrants*. <span class="role-badge">Paper Presenter (Acceptance rate ~3%)</span>
-* **Aleksanteri Conference**, 2024 — **Nugumanova, K.**, *Feminism in Action: Political Power of the Feminist Antiwar Resistance*. <span class="role-badge">Paper Presenter</span>
-* **Aleksanteri Conference**, 2023 — **Nugumanova, K.**, *Gendered Response to War*. <span class="role-badge">Paper Presenter</span>
-* **Aleksanteri Conference**, 2023 — Kostenko, V., **Nugumanova, K.**, *Gender Differences between Post-War Emigrants from Russia: Guilt, Sorrow, Responsibility, and Hope*. <span class="role-badge">Сo-author of the presentation</span>
-* **15th European Graduate Network Conference**, Zurich, 2024 — **Nugumanova, K.**, *Gendered Responses to War: Analyzing Differences and Underlying Factors in the Case of Russian Emigration, 2022–2023*. <span class="role-badge">Paper Presenter & Discussant</span>
-* **Migration Working Group**, European University Institute, 2024 — **Nugumanova, K.**, *Gendered Responses to War: Analyzing Differences and Underlying Factors in the Case of Russian Emigration, 2022–2023*. <span class="role-badge">Paper Presenter</span>
-* **LCSR International Workshop on Comparative Values**, 2024 — **Nugumanova, K.**, *Gendered Responses to War: Analyzing Differences and Underlying Factors in the Case of Russian Emigration, 2022–2023*. <span class="role-badge">Paper Presenter</span>
-* **Problematizing Migration**, University of Palermo, 2023 — **Nugumanova, K.**, *Gender Differences in Attitudes, Coping Strategies, and Integration among Russian Emigrants*. <span class="role-badge">Paper Presenter</span>
-
+- **American Political Science Association (APSA) Annual Meeting**, 2026 — Kamalov, E., **Nugumanova, K.**, & Sergeeva, I. (alphabetical order), *Transnational Repression and Engagement: Evidence from a Panel of Russian Exiles*. [Co-presenter, Chair & Discussant]{.role-badge}
+- **European Consortium for Political Research (ECPR) General Conference**, 2026 — Kamalov, E., **Nugumanova, K.**, & Sergeeva, I. (alphabetical order), *Transnational Repression and Engagement: Evidence from a Panel of Russian Exiles*. [Paper Presenter & Discussant]{.role-badge}
+- **European Consortium for Political Research (ECPR) General Conference**, 2025 — **Nugumanova, K.**, *Gendered Mobilization among Russian Emigrants in Exile*. [Paper Presenter]{.role-badge}
+- **Association for Slavic, East European, and Eurasian Studies (ASEEES) Annual Convention**, 2025 — **Nugumanova, K.**, *Micromobilizing Emotion: How Feminist Anti-War Resistance Builds Affective Infrastructure in Exile*. [Invited Roundtable Speaker & Discussant]{.role-badge}
+- **Association for Slavic, East European, and Eurasian Studies (ASEEES) Annual Convention**, 2024 — **Nugumanova, K.**, E. Kamalov, I. Sergeeva, *Gendered Response to War*. [Paper Presenter]{.role-badge}
+- **ISA / ESA / AIS Gens Conference**, 2025 — **Nugumanova, K.**, *Gender, War, and Political Action among Russian Exiles*. [Paper Presenter]{.role-badge}
+- **Gender, Peace and Security Workshop**, 2025 — **Nugumanova, K.**, *Gender, Peace, and Security among Russian Anti-War Emigrants*. [Paper Presenter (Acceptance rate \~3%)]{.role-badge}
+- **Aleksanteri Conference**, 2024 — **Nugumanova, K.**, *Feminism in Action: Political Power of the Feminist Antiwar Resistance*. [Paper Presenter]{.role-badge}
+- **Aleksanteri Conference**, 2023 — **Nugumanova, K.**, *Gendered Response to War*. [Paper Presenter]{.role-badge}
+- **Aleksanteri Conference**, 2023 — Kostenko, V., **Nugumanova, K.**, *Gender Differences between Post-War Emigrants from Russia: Guilt, Sorrow, Responsibility, and Hope*. [Сo-author of the presentation]{.role-badge}
+- **15th European Graduate Network Conference**, Zurich, 2024 — **Nugumanova, K.**, *Gendered Responses to War: Analyzing Differences and Underlying Factors in the Case of Russian Emigration, 2022–2023*. [Paper Presenter & Discussant]{.role-badge}
+- **Migration Working Group**, European University Institute, 2024 — **Nugumanova, K.**, *Gendered Responses to War: Analyzing Differences and Underlying Factors in the Case of Russian Emigration, 2022–2023*. [Paper Presenter]{.role-badge}
+- **LCSR International Workshop on Comparative Values**, 2024 — **Nugumanova, K.**, *Gendered Responses to War: Analyzing Differences and Underlying Factors in the Case of Russian Emigration, 2022–2023*. [Paper Presenter]{.role-badge}
+- **Problematizing Migration**, University of Palermo, 2023 — **Nugumanova, K.**, *Gender Differences in Attitudes, Coping Strategies, and Integration among Russian Emigrants*. [Paper Presenter]{.role-badge}
 
 ### Invited International Talks and Expert Seminars
 
-* **Russia Expert Seminar**, Robert Schuman Centre, EUI, 2025 — E. Kamalov, **Nugumanova, K.**, I. Sergeeva, *Russian Diaspora: Trends, Risks and Entrepreneurship*. <span class="role-badge-invited">Invited Seminar Speaker</span>
-* **Migration and Diversity Workshop**, ZoiS, 2025 — **Nugumanova, K.**, E. Kamalov, I. Sergeeva, *Reverse Gender Gap in Transnational Activism: War-Driven Political Engagement among Russian Post-2022 Emigrants*. <span class="role-badge-invited">Invited Workshop Speaker</span>
-* **Kovcheg Business.Network International Conference**, 2025 — E. Kamalov, **Nugumanova, K.**, I. Sergeeva, *To Stay or to Return: Mobility, Integration, and the Dynamics of Russian Emigration*. <span class="role-badge-invited">Featured Speaker</span>
-* **Academic Bridges International Conference**, 2025 — E. Kamalov, **Nugumanova, K.**, I. Sergeeva, *Three Years in Emigration: Results of a Panel Study of the Lives of Russian Emigrants*. <span class="role-badge-invited">Invited Speaker</span>
-* **Cross-Border Voices Workshop**, ZoiS & Ilia State University, 2024 — **Nugumanova, K.**, *Cross-Border Voices: Emigration, Gender, and Activism in the Wake of the Russian Invasion of Ukraine*. <span class="role-badge-invited">Invited Speaker</span>
-* **Russian Journalists in Exile Workshop**, University of Helsinki & partners, 2024 — E. Kamalov, I. Sergeeva, **Nugumanova, K.**, *Can Migrant Organizations Evade the Long Arm of Autocrats? A Conjoint Experiment on Donation Preferences among Russian Exiles*. <span class="role-badge-invited">Invited Workshop Speaker</span>
-* **New Russian Exodus and Host Societies: Impacts and Responses**, Yerevan State University, 2024 — **Nugumanova, K.**, *Armenia in Focus: A Safer Haven for Russians*. <span class="role-badge-invited">Invited Speaker</span>
-* **In the Footsteps of Emigrants: In Search of a New World**, Academic Bridges, Kovcheg, Science at Risk, 2023 — **Nugumanova, K.**, *War Doesn't Have a Woman's Face? Political Behaviour and Civic Engagement of Russian Post-War Migrants*. <span class="role-badge-invited">Invited Speaker</span>
-
+- **Russia Expert Seminar**, Robert Schuman Centre, EUI, 2025 — E. Kamalov, **Nugumanova, K.**, I. Sergeeva, *Russian Diaspora: Trends, Risks and Entrepreneurship*. [Invited Seminar Speaker]{.role-badge-invited}
+- **Migration and Diversity Workshop**, ZoiS, 2025 — **Nugumanova, K.**, E. Kamalov, I. Sergeeva, *Reverse Gender Gap in Transnational Activism: War-Driven Political Engagement among Russian Post-2022 Emigrants*. [Invited Workshop Speaker]{.role-badge-invited}
+- **Kovcheg Business.Network International Conference**, 2025 — E. Kamalov, **Nugumanova, K.**, I. Sergeeva, *To Stay or to Return: Mobility, Integration, and the Dynamics of Russian Emigration*. [Featured Speaker]{.role-badge-invited}
+- **Academic Bridges International Conference**, 2025 — E. Kamalov, **Nugumanova, K.**, I. Sergeeva, *Three Years in Emigration: Results of a Panel Study of the Lives of Russian Emigrants*. [Invited Speaker]{.role-badge-invited}
+- **Cross-Border Voices Workshop**, ZoiS & Ilia State University, 2024 — **Nugumanova, K.**, *Cross-Border Voices: Emigration, Gender, and Activism in the Wake of the Russian Invasion of Ukraine*. [Invited Speaker]{.role-badge-invited}
+- **Russian Journalists in Exile Workshop**, University of Helsinki & partners, 2024 — E. Kamalov, I. Sergeeva, **Nugumanova, K.**, *Can Migrant Organizations Evade the Long Arm of Autocrats? A Conjoint Experiment on Donation Preferences among Russian Exiles*. [Invited Workshop Speaker]{.role-badge-invited}
+- **New Russian Exodus and Host Societies: Impacts and Responses**, Yerevan State University, 2024 — **Nugumanova, K.**, *Armenia in Focus: A Safer Haven for Russians*. [Invited Speaker]{.role-badge-invited}
+- **In the Footsteps of Emigrants: In Search of a New World**, Academic Bridges, Kovcheg, Science at Risk, 2023 — **Nugumanova, K.**, *War Doesn't Have a Woman's Face? Political Behaviour and Civic Engagement of Russian Post-War Migrants*. [Invited Speaker]{.role-badge-invited}
 
 ### Summer and Spring Schools
 
-* **Spring School on Democratic Backsliding and Political Conflict.** European University Institute & Scuola Normale Superiore, Florence, 2026.
-* **Experimental Designs in the Social and Behavioral Sciences: Multifactorial Survey Experiments.** *GESIS Spring Seminar 2025*, Cologne, Germany, March 31 – April 4, 2025.
-* **SPS Summer Academy 2022: (In)equality, Solidarity and Democracy in Europe.** European University Institute (EUI), Florence, Italy, 2022.
-* **Friedrich Naumann Foundation Online Summer School "Eclipse"** (Focus on anti-war mobilization and academic resistance), 2022.
-* **Data Science Summer School.** Hertie School Data Science Lab, Berlin (online), 2022.
-
+- **Spring School on Democratic Backsliding and Political Conflict.** European University Institute & Scuola Normale Superiore, Florence, 2026.
+- **Experimental Designs in the Social and Behavioral Sciences: Multifactorial Survey Experiments.** *GESIS Spring Seminar 2025*, Cologne, Germany, March 31 – April 4, 2025.
+- **SPS Summer Academy 2022: (In)equality, Solidarity and Democracy in Europe.** European University Institute (EUI), Florence, Italy, 2022.
+- **Friedrich Naumann Foundation Online Summer School "Eclipse"** (Focus on anti-war mobilization and academic resistance), 2022.
+- **Data Science Summer School.** Hertie School Data Science Lab, Berlin (online), 2022.
 
 ### Professional Trainings
 
-* **JSPS e-Learning Course on Research Ethics.** Japan Society for the Promotion of Science (JSPS), 2026.
-* **5-Day Training for Interviewers** under the auspices of the International Project *"Building the Anti-war Commons in the Russian Diaspora"*, Helsinki, Finland, 2022.
-* **88-Hour Professional Career Track: Data Scientist with R.** DataCamp, 2022.
-* **Research, Ethics, Compliance, and Safety Training — CITI Program:** *Human Research: Social/Behavioral Researchers* (2022); *COVID-19: Mental Health for Higher Ed and Healthcare* (2022).
-* **EY Business School: Introduction to Auditing.** Ernst & Young (EY), Russia, 2019.
-
+- **JSPS e-Learning Course on Research Ethics.** Japan Society for the Promotion of Science (JSPS), 2026.
+- **5-Day Training for Interviewers** under the auspices of the International Project *"Building the Anti-war Commons in the Russian Diaspora"*, Helsinki, Finland, 2022.
+- **88-Hour Professional Career Track: Data Scientist with R.** DataCamp, 2022.
+- **Research, Ethics, Compliance, and Safety Training — CITI Program:** *Human Research: Social/Behavioral Researchers* (2022); *COVID-19: Mental Health for Higher Ed and Healthcare* (2022).
+- **EY Business School: Introduction to Auditing.** Ernst & Young (EY), Russia, 2019.
 
 ### Online Courses and Certifications
 
-* **Migration and Health: Enhancing Intercultural Competence and Diversity Sensitivity.** OpenWHO / World Health Organization (WHO), 2023.
-* **Human Rights, Human Wrongs: Challenging Poverty, Vulnerability and Social Exclusion.** SDGAcademyX, 2023.
-* **Gender, Violence and Post-Conflict States.** University of Iceland, 2022.
-* **Qualitative Research Methods.** University of Amsterdam, 2022.
-* **Feminism and Social Justice.** University of California, Santa Cruz, 2020.
-* **Introduction to Tableau.** DataCamp, 2022.
+- **Migration and Health: Enhancing Intercultural Competence and Diversity Sensitivity.** OpenWHO / World Health Organization (WHO), 2023.
+- **Human Rights, Human Wrongs: Challenging Poverty, Vulnerability and Social Exclusion.** SDGAcademyX, 2023.
+- **Gender, Violence and Post-Conflict States.** University of Iceland, 2022.
+- **Qualitative Research Methods.** University of Amsterdam, 2022.
+- **Feminism and Social Justice.** University of California, Santa Cruz, 2020.
+- **Introduction to Tableau.** DataCamp, 2022.

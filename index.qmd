@@ -29,7 +29,7 @@ about:
       href: mailto:kar.nugumanova@gmail.com
 ---
 
-<div style="font-size:0.75em;">
+::: {style="font-size:0.75em;"}
 At the intersection of political sociology, gender, and migration, my research examines the emotional, gendered, and structural dynamics of political mobilization in contexts of authoritarianism, displacement, and exile. Combining large-scale panel surveys, experiments, and qualitative interviews, I investigate how emotions and gender shape political participation, resistance, and civic engagement among migrants from authoritarian regimes.
 
 I am currently a Visiting Researcher at Waseda University (hosted by Naoto Higuchi) and the Institute of Social Science at the University of Tokyo (Masaaki Higashijima). In Jan. 2027, I will join the [Davis Center at Harvard University](https://daviscenter.fas.harvard.edu/) as a Fellow. I am completing my PhD in Political Science and Sociology at the [Scuola Normale Superiore](https://www.sns.it/it/persona/karolina-nugumanova) under the supervision of Martín Portos and Lorenzo Zamponi.
@@ -37,5 +37,4 @@ I am currently a Visiting Researcher at Waseda University (hosted by Naoto Higuc
 I am a Co-I. of [*OutRush*](https://outrush.io/eng), a global panel study of more than 30,000 post-2022 Russian emigrants. Project findings have been featured in international media including *The New York Times*, *Financial Times*, *Bloomberg*, *Al Jazeera*, *BBC*, and *Meduza*. I also serve as a Co-I. of *Democracy in Exile* (DemEx), an NSF-funded project examining the long-term consequences of political displacement and migration, and lead [*The Science of Dreams*](https://readymag.com/u94255285/wardreams/2/), which explores wartime dream narratives as a lens into collective memory, emotion, and identity. Previously, I worked as an expert on Russian migration for the European Commission.
 
 My research has appeared in *Communist and Post-Communist Studies*, *The February Journal*, and the *Russian Analytical Digest*, while my public-facing work has been published in outlets including *Republic*, *Paper*, and *Posle.media*. I am also a regular commentator and podcast guest for Russian and international media, including *Meduza* and *SBS Radio*. I hold an MA and a BA in Sociology from the [European University at St. Petersburg](https://eusp.org/en) and [Novosibirsk State University](https://english.nsu.ru/).
-</div>
-
+:::
