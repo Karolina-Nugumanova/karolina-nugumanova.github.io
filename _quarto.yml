@@ -21,7 +21,7 @@ website:
       - href: teaching.qmd
         text: Teaching
       - href: academic_activities.qmd
-        text: Academic Activities
+        text: Activities
       - href: collaborators.qmd
         text: Collaborators
       - href: CV.qmd
