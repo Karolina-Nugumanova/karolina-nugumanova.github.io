@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
   title: "Karolina Nugumanova" 
   description: "Karolina Nugumanova: Personal Website"
@@ -21,7 +21,7 @@ website:
       - href: teaching.qmd
         text: Teaching
       - href: academic_activities.qmd
-        text: Activities
+        text: Academic Activities
       - href: collaborators.qmd
         text: Collaborators
       - href: CV.qmd
