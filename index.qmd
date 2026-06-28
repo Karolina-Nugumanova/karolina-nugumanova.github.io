@@ -1,6 +1,6 @@
 ---
 title: "Karolina Nugumanova"
-image: profile_2.jpg
+image: profile_2.jpg 
 about: 
   template: trestles
   image-shape: round
