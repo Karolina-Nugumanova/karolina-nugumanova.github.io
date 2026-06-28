@@ -51,9 +51,10 @@ title: "Publications and Media"
 </style>
 ```
 
+
 ## Publications & Media
 
-### Peer-Reviewed Articles
+### Peer-Reviewed Journal Articles
 
 <div class="pub-card">
 <span class="pub-badge badge-peer">Peer-Reviewed</span>
@@ -85,6 +86,23 @@ title: "Publications and Media"
 <summary>Abstract</summary>
 
 <p class="pub-abstract">The article is devoted to reflecting on silence and speaking in the dreams of people in Russia after the 24th of February 2022. Our two-stage analysis of dream narratives and dreamers' comments on them uncovers several key topics related to speaking and silence. Interpreting them with the apparatus of sociology, we conclude that these dreams provide a space for restoring agency that had been lost in real life. Available both in English and Russian.</p>
+
+</details>
+</div>
+
+<div class="pub-card">
+<span class="pub-badge badge-peer">Peer-reviewed</span>
+
+<div class="pub-title"><a href="https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/Russian_Analytical_Digest_316.pdf" target="_blank">Men's Words, Women's Work: Exploring the Reverse Gender Gap in Post-2022 Russian Emigration</a></div>
+
+<div class="pub-authors"><strong>Nugumanova, K.</strong></div>
+
+<div class="pub-venue">Russian Analytical Digest, 10(316), 13–18 (2024). DOI: 10.3929/ethz-b-000692533</div>
+
+<details>
+<summary>Description / Abstract</summary>
+
+<p class="pub-abstract">Are men truly more engaged in politics, or do they just talk a good game? Since February 2022, over a million Russians have fled political repression, and among them, a surge in female activism has emerged, challenging traditional gender roles. Despite having fewer resources than men, Russian women are more politically and civically active abroad. This reverse gender gap has been observed in interviews with exiled activists and consistently documented in the OutRush survey.</p>
 
 </details>
 </div>
@@ -252,23 +270,6 @@ title: "Publications and Media"
 </div>
 
 ### Non-Peer-Reviewed Publications
-
-<div class="pub-card">
-<span class="pub-badge badge-peer">Journal Article</span>
-
-<div class="pub-title"><a href="https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/Russian_Analytical_Digest_316.pdf" target="_blank">Men's Words, Women's Work: Exploring the Reverse Gender Gap in Post-2022 Russian Emigration</a></div>
-
-<div class="pub-authors"><strong>Nugumanova, K.</strong></div>
-
-<div class="pub-venue">Russian Analytical Digest, 10(316), 13–18 (2024). DOI: 10.3929/ethz-b-000692533</div>
-
-<details>
-<summary>Description / Abstract</summary>
-
-<p class="pub-abstract">Are men truly more engaged in politics, or do they just talk a good game? Since February 2022, over a million Russians have fled political repression, and among them, a surge in female activism has emerged, challenging traditional gender roles. Despite having fewer resources than men, Russian women are more politically and civically active abroad. This reverse gender gap has been observed in interviews with exiled activists and consistently documented in the OutRush survey.</p>
-
-</details>
-</div>
 
 <div class="pub-card">
 <span class="pub-badge badge-media">Media Essay</span>

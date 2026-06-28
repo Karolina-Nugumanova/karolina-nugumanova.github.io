@@ -22,6 +22,8 @@ website:
         text: Teaching
       - href: academic_activities.qmd
         text: Academic Activities
+      - href: collaborators.qmd
+        text: Collaborators
       - href: CV.qmd
         text: CV
   favicon: main_flav_4.png

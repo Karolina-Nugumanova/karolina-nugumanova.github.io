@@ -70,7 +70,22 @@
 }
 
 
+.research-network {
+  margin-top: 2rem;
+  padding: 12px 15px;
+  border-left: 3px solid #f5c37d;
+  font-size: 0.9rem;
+}
 
+.research-network h4 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.research-network ul {
+  padding-left: 1rem;
+  margin-bottom: 0;
+}
 
 /* 1. ИМПОРТ ШРИФТОВ С GOOGLE FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap');
@@ -306,4 +321,5 @@ column-gap: 50px !important;
 
 
 ###
+
 
